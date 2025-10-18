@@ -1,0 +1,797 @@
+ /* Full width soft white background */
+.home-container {
+  background-color: #f8f8f8;
+  min-height: 100vh;
+  width: 100%;
+  font-family: montserrat, sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navigation bar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  position: relative;
+  z-index: 10;
+  font-weight: bolder;
+  margin-top: -27px;
+  background: transparent; /* removes white cast */
+}
+
+/* Logo */
+.logo img {
+  height: 85px;
+  width: auto;
+  margin: 0;
+  margin-top: -19px;
+}
+
+/* Menu links */
+.nav-links {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 2rem;
+}
+.nav-links a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+.nav-links a:hover {
+  color: #fe6703;
+}
+
+/* Buttons */
+.nav-buttons {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.btn-login,
+.btn-signin {
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  font-weight: 500;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.btn-login { background-color: #fe6703; color: white; }
+.btn-login:hover { background-color: #e96e00; }
+.btn-signin { background-color: white; color: #070707; border: 1px solid #13131356; }
+.btn-signin:hover { background-color: #f0f0f0; border-color:#070707a4; }
+
+/* Slider wrapper - push slider closer to navbar */
+.slider-wrapper {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  margin-top: -15px; /* pulls entire slider up */
+}
+
+/* Smooth horizontal scroll container */
+.slider-container {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: hidden; /* remove inner scrollbar */
+  scroll-behavior: smooth;
+  width: 100%;
+}
+
+/* Hide scrollbar */
+.slider-container::-webkit-scrollbar { display: none; }
+.slider-container { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* Each slide full width and height */
+.slide {
+  flex: 0 0 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  min-height: 100vh;
+}
+
+/* Slide content animations */
+.fall-in {
+  opacity: 0;
+  transform: translateY(50px);
+  animation: fallInAnim 0.8s forwards;
+}
+@keyframes fallInAnim {
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Hover-only arrows container */
+.slider-wrapper.hover-arrows .arrow {
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s ease;
+}
+.slider-wrapper.hover-arrows:hover .arrow {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Arrow styling */
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 2.8rem;
+  font-weight: 200;
+  padding: 0.6rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  box-shadow: 0 0 0 rgba(254,103,3,0);
+  z-index: 5;
+  font-weight: 400;
+}
+.left-arrow { left: 20px; }
+.right-arrow { right: 20px; }
+
+/* Hero section */
+.hero-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh; /* keeps full viewport height */
+  position: relative;
+  overflow: visible; /* allow gears to overflow */
+  flex-direction: column;
+  margin: 0; /* remove extra spacing */
+  margin-top: 10px;
+}
+
+/* Hero image */
+.hero-image {
+  width: 100%;
+  max-width: 1110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  filter: drop-shadow(0 8px 12px rgba(0,0,0,0.35));
+  position: relative;
+  margin-top: 5px;
+}
+.hero-image img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  margin-top: 5px;
+}
+
+/* Hero title */
+.hero-title {
+  position: absolute;
+  top: 10%; /* center vertically over hero image */
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  color: #fe6703;
+  letter-spacing: 1px;
+  font-family: "Montserrat", sans-serif;
+  z-index: 2;
+  pointer-events: none;
+  text-shadow: 0 0 8px rgba(254, 103, 3, 0.4),
+               0 0 12px rgba(254, 103, 3, 0.5);
+  white-space: nowrap;
+}
+/* Gears */
+.gear {
+  position: absolute;
+  width: 8%;
+  max-width: 200px;
+  z-index: 1;
+  pointer-events: none;
+}
+.top-left.gear1 { top: -100px; left: -400px; }
+.top-left.gear2 { top: 90px; left: 60px; }
+.top-left.gear3 { top: 120px; left: 120px; }
+.top-right.gear4 { top: 45px; right: 8px; }
+.top-right.gear5 { top: 85px; right: 65px; }
+
+/* Keep your spin keyframes */
+@keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+
+/* Remove default spin — only fall-in initially */
+.top-left.gear1, .top-left.gear2, .top-left.gear3, .top-right.gear4, .top-right.gear5 {
+  /* no spin yet */
+  transform-origin: center center;
+}
+
+/* Spin class to apply after fall-in */
+.gear.ready-to-spin {
+  animation: spin 20s linear infinite;
+  transform-origin: center center;
+}
+
+/* Individual gear spin durations */
+.gear1.ready-to-spin { animation-duration: 18s; }
+.gear2.ready-to-spin { animation-duration: 22s; }
+.gear3.ready-to-spin { animation-duration: 20s reverse; }
+.gear4.ready-to-spin { animation-duration: 25s; }
+.gear5.ready-to-spin { animation-duration: 30s reverse; }
+
+
+
+/* Slide titles and paragraphs */
+.slide-title {
+  font-size: 2rem;
+  color: #fe6703;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+.slide-paragraph {
+  font-size: 1.1rem;
+  text-align: center;
+  max-width: 600px;
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+/* Slide placeholder adjustments */
+.slide-placeholder {
+  background: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+}
+.slide-placeholder video {
+  width: 80% !important;
+  max-height: 400px;
+  height: auto;
+}
+/* Premium Section Fixes */
+.premium-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.premium-elements {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.premium-map video,
+.premium-icon video {
+  width: 1000px !important; /* reduced size */
+  max-width: 30vw;
+  height: auto;
+  border: none;
+  object-fit: contain;
+}
+
+.vertical-line {
+  width: 2px;
+  height: 200px;
+  background-color: #fe6703;
+}
+
+.cta-button {
+  background-color: #fe6703;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.8rem;
+  font-size: 1.1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #e96e00;
+  transform: scale(1.05);
+}
+
+/* Make Premium section responsive */
+@media (max-width: 768px) {
+  .premium-elements {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .vertical-line {
+    display: none;
+  }
+
+  .premium-map video,
+  .premium-icon video {
+    width: 80%;
+    max-width: 300px;
+  }
+} 
+
+/* Disable Picture-in-Picture, hover controls, and enhancements for all videos */
+video {
+  pointer-events: none;       /* disables hover interactions */
+  user-select: none;          /* prevents text selection */
+  -webkit-user-drag: none;    /* prevents dragging on Safari/Chrome */
+  object-fit: contain;        /* keeps original sizing */
+}
+
+/* Extra safeguard for browser-specific video controls overlays */
+video::-internal-media-controls-overlay-cast-button,
+video::-internal-media-controls-overlay-play-button {
+  display: none !important;                                                                                          
+}
+/* ====== Slide 2: Bulb left, text stacked vertically on right ====== */
+.slide:nth-child(2) {
+  display: flex;
+  flex-direction: row;           /* horizontal layout */
+  justify-content: space-between;/* distribute space between video & text */
+  align-items: center;           /* vertical align */
+  text-align: left;
+  padding: 0 5%;                 /* horizontal padding of entire slide, adjust to move slide content left/right */
+  gap: 0.1rem;                     /* space between video and text container, adjust as needed */
+  margin-top: -45px;
+}
+
+/* Bulb container (video wrapper) */
+.slide:nth-child(2) .slide-placeholder {
+  flex: 1 1 auto;                /* flexible container, grows/shrinks */
+  max-width: none;               /* allow full expansion */
+  min-width: 0;                  /* prevent flex shrink limits */
+  height: auto;
+  order: 1;                       /* keeps video on left */
+  justify-content: flex-start;
+  overflow: visible;             /* video can overflow container if scaled up */
+}
+
+.slide:nth-child(2) .slide-placeholder video {
+  width: 100%;                   /* fill the container horizontally */
+  max-width: none;               /* remove default max-width constraints */
+  height: auto;
+  flex-shrink: 0;                /* prevent shrinking in flex layout */
+  object-fit: contain;
+  display: block;
+  transform: scale(2.1);         /* default scale, change this to make video bigger/smaller */
+}
+/* Text container */
+.slide:nth-child(2) .slide-text-container {
+  flex: 0 0 50%;                 /* width of text container */
+  max-width: 50%;                /* prevent shrinking */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  order: 2;                      /* keeps text on right of video */
+  padding-left: -20rem;            /* space between video & text, adjust to move text closer/farther */
+  gap: 0.1rem;                   /* space between title and paragraph, adjust as needed */
+  margin-right: 29px
+}
+
+/* Title & paragraph styling */
+.slide:nth-child(2) .slide-text-container .slide-title {
+  text-align: left;              /* alignment */
+  font-size: 2.6rem;             /* adjust to make title bigger/smaller */
+}
+
+.slide:nth-child(2) .slide-text-container .slide-paragraph {
+  text-align: left;
+  font-size: 1.2rem;             /* adjust to make paragraph bigger/smaller */
+  max-width: 100%;               /* can adjust max width if needed */
+  font-weight: 600;
+}
+
+/* Slide 3: Map on right, text stacked on left */
+.slide:nth-child(3) {
+  display: flex;
+  flex-direction: row;      /* horizontal layout */
+  justify-content: space-between;
+  align-items: center;      /* vertical align */
+  padding: 0 5%;            /* horizontal padding for slider continuity */
+  gap: 0.1rem;                /* space between text and map */
+  margin-top: -50px;
+}
+
+/* Text container */
+.slide:nth-child(3) .slide-text-container {
+  flex: 0 0 40%;           /* fixed width for text */
+  max-width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0.1rem;             /* tight spacing between title & paragraph */
+  order: 1;                 /* text appears first on the left */
+  margin-left: 90px;
+}
+.slide:nth-child(3) .slide-text-container .slide-title {
+  text-align: left;              /* alignment */
+  font-size: 2.8rem;             /* adjust to make title bigger/smaller */
+}
+.slide:nth-child(3) .slide-text-container .slide-paragraph {
+  text-align: left;
+  font-size: 1.3rem;             /* adjust to make paragraph bigger/smaller */
+  max-width: 100%;               /* can adjust max width if needed */
+  font-weight: 600;
+}
+
+/* Map container (free scaling like Diamond/Bulb) */
+.slide:nth-child(3) .slide-placeholder {
+  flex: 1 1 auto;          /* take remaining space */
+  max-width: none;          /* allow container to grow freely */
+  min-width: 0;             /* prevent flex from limiting */
+  height: auto;
+  order: 2;                 /* map appears on right */
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; /* push map to right */
+  overflow: visible;        /* allow video to grow beyond container if needed */
+}
+
+/* Map video fills container (free scaling) */
+.slide:nth-child(3) .slide-placeholder video {
+  width: 100%;              /* fill container */
+  max-width: none;          /* remove max-width constraints */
+  height: auto;
+  flex-shrink: 0;           /* prevent shrinking in flex layout */
+  object-fit: contain;
+  display: block;
+  transform: scale(1.8);    /* boost size slightly, like Diamond/Bulb */
+}
+
+/* Slide 5: Contact icon on left, text stacked on right */
+.slide:nth-child(5) {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; /* align content to left */
+  align-items: center;         /* vertical center */
+  gap: 1.5rem;                 /* space between icon and text */
+  padding: 0 5%;
+  margin-top: -45px;
+}
+
+/* Icon container */
+.slide:nth-child(5) .slide-placeholder.contact-icon {
+  flex: 0 0 auto;             /* do not shrink */
+  width: 580px;                /* smaller icon size */
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* hug left side */
+}
+
+/* Icon image sizing */
+.slide:nth-child(5) .slide-placeholder.contact-icon img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+/* Text container */
+.slide:nth-child(5) .slide-text-container {
+  flex: 1;                    /* take remaining space */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.5rem;
+  max-width: 60%;             /* keep text reasonable width */
+  text-align: left;
+}
+.slide:nth-child(5) .slide-text-container .slide-title {
+  text-align: left;              /* alignment */
+  font-size: 2.8rem;             /* adjust to make title bigger/smaller */
+}
+.slide:nth-child(5) .slide-text-container .slide-paragraph {
+  text-align: left;
+  font-size: 1.3rem;             /* adjust to make paragraph bigger/smaller */
+  max-width: 100%;               /* can adjust max width if needed */
+  font-weight: 600;
+  margin-top: -18px;
+}
+/* Bouncing animation */
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0); /* start/end position */
+  }
+  50% {
+    transform: translateY(-10px); /* move up slightly */
+  }
+}
+
+/* Apply animation to the contact icon image */
+.slide:nth-child(5) .slide-placeholder.contact-icon img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  animation: bounce 1s ease-in-out infinite; /* bounce continuously */
+}
+
+/* ====== SLIDE 6: PREMIUM STYLES (Diamond LEFT, Text RIGHT) ====== */
+.slide:nth-child(6) {
+  display: flex;
+  flex-direction: row; /* Diamond left, text right */
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 2rem 4rem;
+  box-sizing: border-box;
+  margin-top: -40px;
+}
+
+/* Diamond container (LEFT side) */
+.slide:nth-child(6) .premium-container {
+  flex: 3;              /* allow diamond side to grow more */
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  overflow: visible;    /* allow scaling beyond flex limits */
+}
+
+/* Inner diamond wrapper */
+.slide:nth-child(6) .premium-elements {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}
+
+.slide:nth-child(6) .premium-icon {
+  flex-shrink: 0;       /* prevent shrinking */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: none;      /* remove parent width constraints */
+  margin-right: -50px;
+  margin-bottom: 30px;
+}
+
+/* Diamond video itself */
+.slide:nth-child(6) .premium-icon video {
+  width: 100%;          /* fill container */
+  max-width: none;      /* remove max-width constraint */
+  height: auto;
+  object-fit: contain;
+  display: block;
+  transform: scale(1.7); /* boost size slightly */
+}
+/* Text container (RIGHT side) */
+.slide:nth-child(6) .slide-text-container {
+  flex: 0 0 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: left;
+  gap: 1rem;
+  margin-left: 60px;
+}
+.slide:nth-child(6) .slide-text-container .slide-title {
+  text-align: left;              /* alignment */
+  font-size: 2.8rem;             /* adjust to make title bigger/smaller */
+  margin-bottom: -20px;
+}
+.slide:nth-child(6) .slide-text-container .slide-paragraph {
+  text-align: left;
+  font-size: 1.3rem;             /* adjust to make paragraph bigger/smaller */
+  max-width: 100%;               /* can adjust max width if needed */
+  font-weight: 600;
+   line-height: 1.6;
+}
+
+
+/* Buttons */
+.slide:nth-child(6) .premium-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  margin-top: 0.5rem;
+}
+
+.slide:nth-child(6) .premium-buttons .btn-login,
+.slide:nth-child(6) .premium-buttons .btn-signin {
+  border-radius: 999px; /* pill buttons */
+  padding: 0.6rem 1.6rem;
+  font-size: 1rem;
+  width: auto;
+  align-self: flex-start;
+  cursor: pointer;
+}
+
+/* Responsive behavior */
+@media (max-width: 900px) {
+  .slide:nth-child(6) {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 2rem;
+    padding: 1.5rem;
+  }
+
+  .slide:nth-child(6) .premium-container {
+    justify-content: center;
+    order: 1; /* Diamond appears first on mobile */
+  }
+
+  .slide:nth-child(6) .slide-text-container {
+    order: 2;
+    align-items: center;
+    max-width: 100%;
+  }
+
+  .slide:nth-child(6) .premium-icon video {
+    width: clamp(200px, 60vw, 400px);
+  }
+
+  .slide:nth-child(6) .premium-buttons {
+    align-items: center;
+  }
+
+  .slide:nth-child(6) .premium-buttons .btn-login,
+  .slide:nth-child(6) .premium-buttons .btn-signin {
+    align-self: center;
+  }
+}
+/* ===== Slide 4: Latest News ===== */
+.slide:nth-child(4) {
+  display: flex;
+  flex-direction: column;       /* stack title, paragraph, video */
+  justify-content: center;
+  align-items: center;          /* center all content */
+  text-align: center;
+  padding: 2rem 5%;
+  gap: 1.5rem;                  /* space between title, paragraph, and video */
+  margin-top: 17px;
+}
+
+/* Title */
+.slide:nth-child(4) .slide-title {
+  font-size: 2.5rem;           /* adjust font size here */
+  font-weight: 700;
+  margin-bottom: -15px;
+}
+/* Paragraph */ 
+.slide:nth-child(4) .slide-paragraph {
+   font-size: 1.2rem; /* adjust font size here */
+    max-width: 700px; /* control line length */ 
+    line-height: 1.3; 
+    font-weight: 700 !important; 
+    margin-bottom: -15px;
+}
+
+
+/* Video container */
+.slide:nth-child(4) .slide-placeholder {
+  width: 100%;
+  max-width: 900px;            /* maximum video width */
+  height: auto;
+  overflow: visible;           /* allow free scaling */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 35px;
+}
+
+/* Video itself */
+.slide:nth-child(4) .slide-placeholder video {
+  width: 100%;                 /* fill container */
+  max-width: none;             /* remove default max width */
+  height: auto;
+  object-fit: contain;
+  flex-shrink: 0;
+  display: block;
+}
+/* ===== HERO SECTION INTRO DYNAMIC ANIMATION FIXED ===== */
+
+/* Initial hidden state for hands, gears, slogan */
+.hero-image img,
+.hero-title {
+  opacity: 0;
+}
+
+/* Hands first */
+.hero-image img:first-child {
+  animation: fallInHands 0.8s ease-out forwards;
+}
+
+/* Gears fall slightly earlier now */
+.hero-image .gear {
+  animation: fallInGears 0.8s ease-out forwards;
+}
+.hero-image .gear1 { animation-delay: 0.4s; }
+.hero-image .gear2 { animation-delay: 0.45s; }
+.hero-image .gear3 { animation-delay: 0.5s; }
+.hero-image .gear4 { animation-delay: 0.55s; }
+.hero-image .gear5 { animation-delay: 0.6s; }
+
+/* Slogan appears last but keeping centering intact */
+.hero-title {
+  animation: fallInSlogan 0.8s ease-out forwards;
+  animation-delay: 1s;
+}
+
+/* ===== KEYFRAMES ===== */
+@keyframes fallInHands {
+  0%   { opacity: 0; transform: translateY(-80px); }
+  60%  { opacity: 1; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fallInGears {
+  0%   { opacity: 0; transform: translateY(-60px) rotate(-30deg); }
+  60%  { opacity: 1; transform: translateY(5px) rotate(10deg); }
+  100% { opacity: 1; transform: translateY(0) rotate(0deg); }
+}
+
+@keyframes fallInSlogan {
+  0%   { opacity: 0; transform: translate(-50%, -50%) translateY(-30px); }
+  50%  { opacity: 1; transform: translate(-50%, -50%) translateY(5px); }
+  70%  { opacity: 1; transform: translate(-50%, -50%) translateY(0); }
+  80%  { opacity: 0.8; } /* subtle blink effect */
+  100% { opacity: 1; }
+}
+/* === Flicker + Jolt Animation for Slide 2 === */
+.slide.jolt {
+  animation: jolt-flicker 0.6s ease;
+  z-index: 10;
+}
+
+/* Keyframes: combine a quick displacement (jolt) + flicker */
+@keyframes jolt-flicker {
+  0% {
+    filter: brightness(1);
+    transform: translateX(0) rotate(0);
+  }
+  10% {
+    filter: brightness(1.6) contrast(1.4);
+    transform: translateX(-12px) rotate(-1deg);
+  }
+  20% {
+    filter: brightness(0.7) contrast(0.8);
+    transform: translateX(8px) rotate(1deg);
+  }
+  35% {
+    filter: brightness(1.4);
+    transform: translateX(-4px);
+  }
+  50% {
+    filter: brightness(0.9);
+    transform: translateX(3px);
+  }
+  70% {
+    filter: brightness(1);
+    transform: translateX(-1px);
+  }
+  85% {
+    filter: brightness(1);
+    transform: translateX(1px);
+  }
+  100% {
+    filter: brightness(1);
+    transform: translateX(0);
+  }
+}
+
+

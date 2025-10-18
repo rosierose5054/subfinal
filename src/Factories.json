@@ -1,0 +1,2414 @@
+[
+  {
+    "name": "Prime Pharma Basra",
+    "logoUrl": "./Prime.webp",
+    "governorate": "Basra",
+    "industryType": "Healthcare",
+    "establishedYear": 2008,
+    "status": "active",
+    "phone": "+964 770 3678638",
+    "location": {
+      "lat": 30.44408812,
+      "lng": 47.82677971
+    },
+    "description": "Pharmaceutical packaging and formulation unit producing OTC syrups and tablets under GMP-compliant lines. Based in Basra. Certifications: HACCP, ISO 13485.",
+    "website": "https://prime-pharma-basra.co",
+    "email": "prime-pharma-basra@prime-pharma-basra.co"
+  },
+  {
+    "name": "Golden Containers Basra",
+    "logoUrl": "./golden.jpg",
+    "governorate": "Basra",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 1998,
+    "status": "active",
+    "phone": "+964 758 5437923",
+    "location": {
+      "lat": 30.41854917,
+      "lng": 47.67901491
+    },
+    "description": "Manufacturer of plastic films, stretch wrap and bottle caps serving food, beverage and logistics companies. Based in Basra. Certifications: ISO 9001.",
+    "website": "https://golden-containers-basra.net",
+    "email": "golden-containers-basra@golden-containers-basra.net"
+  },
+  {
+    "name": "Fresh Pharma Basra",
+    "logoUrl": "./fresh.webp",
+    "governorate": "Basra",
+    "industryType": "Healthcare",
+    "establishedYear": 2003,
+    "status": "active",
+    "phone": "+964 765 6279418",
+    "location": {
+      "lat": 30.41323772,
+      "lng": 47.92394084
+    },
+    "description": "Pharmaceutical packaging and formulation unit producing OTC syrups and tablets under GMP-compliant lines. Based in Basra. Certifications: GMP, ISO 13485.",
+    "website": "https://fresh-pharma-basra.org",
+    "email": "fresh-pharma-basra@fresh-pharma-basra.org"
+  },
+  {
+    "name": "Modern Outlet Basra",
+    "logoUrl": "./outlet.webp",
+    "governorate": "Basra",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 1999,
+    "status": "active",
+    "phone": "+964 755 8187926",
+    "location": {
+      "lat": 30.4493255,
+      "lng": 47.81841044
+    },
+    "description": "Retail distribution centre and online storefront serving local neighborhoods with grocery and personal care items. Based in Basra. Certifications: CE, HACCP.",
+    "website": "https://modern-outlet-basra.net",
+    "email": "modern-outlet-basra@modern-outlet-basra.net"
+  },
+  {
+    "name": "Golden Hassan Biotech Basra",
+    "logoUrl": "./goldenbio.webp",
+    "governorate": "Basra",
+    "industryType": "Healthcare",
+    "establishedYear": 1999,
+    "status": "active",
+    "phone": "+964 760 2065818",
+    "location": {
+      "lat": 30.52548921,
+      "lng": 47.88762381
+    },
+    "description": "Pharmaceutical packaging and formulation unit producing OTC syrups and tablets under GMP-compliant lines. Based in Basra. Certifications: HACCP.",
+    "website": "https://golden-hassan-biotech-basra.com",
+    "email": "golden-hassan-biotech-basra@golden-hassan-biotech-basra.com"
+  },
+  {
+    "name": "Central Packaging Basra",
+    "logoUrl": "./basra.avif",
+    "governorate": "Basra",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2016,
+    "status": "active",
+    "phone": "+964 757 2871534",
+    "location": {
+      "lat": 30.57695769,
+      "lng": 47.87526334
+    },
+    "description": "Produces corrugated boxes, flexible packaging and sustainable paper-based solutions for food and retail sectors. Based in Basra. Certifications: HACCP, ISO 14001.",
+    "website": "https://central-packaging-basra.com",
+    "email": "central-packaging-basra@central-packaging-basra.com"
+  },
+  {
+    "name": "Al Recycling Basra",
+    "logoUrl": "./recycle.webp",
+    "governorate": "Basra",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2011,
+    "status": "active",
+    "phone": "+964 750 6007072",
+    "location": {
+      "lat": 30.55239244,
+      "lng": 47.8023045
+    },
+    "description": "Recycling and materials recovery facility focusing on plastic and cardboard separation for industrial reuse. Based in Basra. Certifications: ISO 13485.",
+    "website": "https://al-recycling-basra.net",
+    "email": "al-recycling-basra@al-recycling-basra.net"
+  },
+  {
+    "name": "Basra Systems ",
+    "logoUrl": "./bis.webp",
+    "governorate": "Basra",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2024,
+    "status": "active",
+    "phone": "+964 770 2876828",
+    "location": {
+      "lat": 30.40011438,
+      "lng": 47.74724682
+    },
+    "description": "A digital studio focusing on e-commerce platforms, payment integrations, and localised SaaS products. Based in Basra. Certifications: ISO 14001.",
+    "website": "https://basra-systems-basra.co",
+    "email": "basra-systems-basra@basra-systems-basra.co"
+  },
+  {
+    "name": "Royal Data Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2001,
+    "status": "active",
+    "phone": "+964 753 6229731",
+    "location": {
+      "lat": 30.5857827,
+      "lng": 47.87657956
+    },
+    "description": "A digital studio focusing on e-commerce platforms, payment integrations, and localised SaaS products. Based in Basra. Certifications: HACCP, ISO 13485.",
+    "website": "https://royal-data-basra.org",
+    "email": "royal-data-basra@royal-data-basra.org"
+  },
+  {
+    "name": "Modern Solar Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2002,
+    "status": "active",
+    "phone": "+964 764 4860684",
+    "location": {
+      "lat": 30.41280518,
+      "lng": 47.65631028
+    },
+    "description": "Recycling and materials recovery facility focusing on plastic and cardboard separation for industrial reuse. Based in Basra. Certifications: CE, GMP.",
+    "website": "https://modern-solar-basra.iq",
+    "email": "modern-solar-basra@modern-solar-basra.iq"
+  },
+  {
+    "name": "Mosul Innovations Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2023,
+    "status": "active",
+    "phone": "+964 759 5449368",
+    "location": {
+      "lat": 30.41172708,
+      "lng": 47.76369194
+    },
+    "description": "A digital studio focusing on e-commerce platforms, payment integrations, and localised SaaS products. Based in Basra.",
+    "website": "https://mosul-innovations-basra.org",
+    "email": "mosul-innovations-basra@mosul-innovations-basra.org"
+  },
+  {
+    "name": "Mosul Sami Boxes Basra",
+    "logoUrl": "n/a",
+    "governorate": "Basra",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 1996,
+    "status": "active",
+    "phone": "+964 757 1959074",
+    "location": {
+      "lat": 30.51583606,
+      "lng": 47.81265856
+    },
+    "description": "Manufacturer of plastic films, stretch wrap and bottle caps serving food, beverage and logistics companies. Based in Basra. Certifications: CE, ISO 9001.",
+    "website": "https://mosul-sami-boxes-basra.iq",
+    "email": "mosul-sami-boxes-basra@mosul-sami-boxes-basra.iq"
+  },
+  {
+    "name": "Al Khalid Data Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2014,
+    "status": "active",
+    "phone": "+964 759 3011363",
+    "location": {
+      "lat": 30.41359217,
+      "lng": 47.90854576
+    },
+    "description": "Develops B2B software solutions, mobile apps, and provides web development and cloud services for regional SMEs. Based in Basra. Certifications: CE, GMP.",
+    "website": "https://al-khalid-data-basra.com",
+    "email": "al-khalid-data-basra@al-khalid-data-basra.com"
+  },
+  {
+    "name": "Mosul Creations Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2016,
+    "status": "active",
+    "phone": "+964 759 3195773",
+    "location": {
+      "lat": 30.54323836,
+      "lng": 47.72160579
+    },
+    "description": "Small-batch producers of handmade goods including soaps, candles, and embroidered textiles for retail and export. Based in Basra. Certifications: ISO 13485.",
+    "website": "https://mosul-creations-basra.iq",
+    "email": "mosul-creations-basra@mosul-creations-basra.iq"
+  },
+  {
+    "name": "Basra Bio Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2009,
+    "status": "active",
+    "phone": "+964 750 2229110",
+    "location": {
+      "lat": 30.52423185,
+      "lng": 47.81889809
+    },
+    "description": "Solar installer and small-scale renewable energy provider offering PV kits and installation for businesses. Based in Basra. Certifications: CE, GMP.",
+    "website": "https://basra-bio-basra.com",
+    "email": "basra-bio-basra@basra-bio-basra.com"
+  },
+  {
+    "name": "Modern Soft Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2006,
+    "status": "active",
+    "phone": "+964 764 6075395",
+    "location": {
+      "lat": 30.45699748,
+      "lng": 47.78145537
+    },
+    "description": "Develops B2B software solutions, mobile apps, and provides web development and cloud services for regional SMEs. Based in Basra. Certifications: CE.",
+    "website": "https://modern-soft-basra.iq",
+    "email": "modern-soft-basra@modern-soft-basra.iq"
+  },
+  {
+    "name": "Modern Materials Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2003,
+    "status": "active",
+    "phone": "+964 764 3607983",
+    "location": {
+      "lat": 30.42308573,
+      "lng": 47.68211079
+    },
+    "description": "Produces corrugated boxes, flexible packaging and sustainable paper-based solutions for food and retail sectors. Based in Basra. Certifications: ISO 14001.",
+    "website": "https://modern-materials-basra.iq",
+    "email": "modern-materials-basra@modern-materials-basra.iq"
+  },
+  {
+    "name": "Prime Supply Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Trades and Services",
+    "establishedYear": 2011,
+    "status": "active",
+    "phone": "+964 771 2548511",
+    "location": {
+      "lat": 30.49770637,
+      "lng": 47.92160095
+    },
+    "description": "Engineering and maintenance firm offering industrial installation, fabrication and repair services for factories. Based in Basra. Certifications: HACCP, ISO 13485.",
+    "website": "https://prime-supply-basra.net",
+    "email": "prime-supply-basra@prime-supply-basra.net"
+  },
+  {
+    "name": "Al Delights Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2000,
+    "status": "active",
+    "phone": "+964 760 1162230",
+    "location": {
+      "lat": 30.54824618,
+      "lng": 47.81550413
+    },
+    "description": "Produces canned and packaged food, specializing in tomato paste, canned fish, and date-based products for local and regional markets. Based in Basra. Certifications: ISO 9001.",
+    "website": "https://al-delights-basra.net",
+    "email": "al-delights-basra@al-delights-basra.net"
+  },
+  {
+    "name": "Fresh Delights Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2008,
+    "status": "active",
+    "phone": "+964 771 7003042",
+    "location": {
+      "lat": 30.4254891,
+      "lng": 47.7424775
+    },
+    "description": "Produces canned and packaged food, specializing in tomato paste, canned fish, and date-based products for local and regional markets. Based in Basra. Certifications: GMP, ISO 13485.",
+    "website": "https://fresh-delights-basra.iq",
+    "email": "fresh-delights-basra@fresh-delights-basra.iq"
+  },
+  {
+    "name": "Basra Traditional Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2024,
+    "status": "active",
+    "phone": "+964 752 7917152",
+    "location": {
+      "lat": 30.5859762,
+      "lng": 47.90938171
+    },
+    "description": "Small-batch producers of handmade goods including soaps, candles, and embroidered textiles for retail and export. Based in Basra. Certifications: GMP, ISO 9001.",
+    "website": "https://basra-traditional-basra.iq",
+    "email": "basra-traditional-basra@basra-traditional-basra.iq"
+  },
+  {
+    "name": "Green Outlet Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 2003,
+    "status": "active",
+    "phone": "+964 759 1649691",
+    "location": {
+      "lat": 30.43183957,
+      "lng": 47.86038346
+    },
+    "description": "Operates a B2C e-commerce marketplace with fulfilment and last-mile delivery for household goods and groceries. Based in Basra. Certifications: HACCP.",
+    "website": "https://green-outlet-basra.iq",
+    "email": "green-outlet-basra@green-outlet-basra.iq"
+  },
+  {
+    "name": "Fresh Biotech Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Healthcare",
+    "establishedYear": 2002,
+    "status": "active",
+    "phone": "+964 757 5674183",
+    "location": {
+      "lat": 30.40473289,
+      "lng": 47.70793894
+    },
+    "description": "Pharmaceutical packaging and formulation unit producing OTC syrups and tablets under GMP-compliant lines. Based in Basra. Certifications: ISO 9001.",
+    "website": "https://fresh-biotech-basra.iq",
+    "email": "fresh-biotech-basra@fresh-biotech-basra.iq"
+  },
+  {
+    "name": "Global Engineering Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Trades and Services",
+    "establishedYear": 2005,
+    "status": "active",
+    "phone": "+964 755 3995870",
+    "location": {
+      "lat": 30.58784743,
+      "lng": 47.68460253
+    },
+    "description": "Provides logistics, warehousing and supply chain services tailored to fast-moving consumer goods. Based in Basra. Certifications: CE, ISO 14001.",
+    "website": "https://global-engineering-basra.co",
+    "email": "global-engineering-basra@global-engineering-basra.co"
+  },
+  {
+    "name": "United Traditional Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2008,
+    "status": "active",
+    "phone": "+964 759 4188992",
+    "location": {
+      "lat": 30.52124177,
+      "lng": 47.80342692
+    },
+    "description": "Small-batch producers of handmade goods including soaps, candles, and embroidered textiles for retail and export. Based in Basra. Certifications: ISO 14001, ISO 9001.",
+    "website": "https://united-traditional-basra.net",
+    "email": "united-traditional-basra@united-traditional-basra.net"
+  },
+  {
+    "name": "Central Produce Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2006,
+    "status": "active",
+    "phone": "+964 757 6266630",
+    "location": {
+      "lat": 30.48625948,
+      "lng": 47.93466235
+    },
+    "description": "Produces canned and packaged food, specializing in tomato paste, canned fish, and date-based products for local and regional markets. Based in Basra. Certifications: ISO 13485.",
+    "website": "https://central-produce-basra.iq",
+    "email": "central-produce-basra@central-produce-basra.iq"
+  },
+  {
+    "name": "Central Fiber Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2007,
+    "status": "active",
+    "phone": "+964 753 8053918",
+    "location": {
+      "lat": 30.53944168,
+      "lng": 47.81632374
+    },
+    "description": "Produces corrugated boxes, flexible packaging and sustainable paper-based solutions for food and retail sectors. Based in Basra. Certifications: HACCP, ISO 13485.",
+    "website": "https://central-fiber-basra.net",
+    "email": "central-fiber-basra@central-fiber-basra.net"
+  },
+  {
+    "name": "Mosul Packaging Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2008,
+    "status": "active",
+    "phone": "+964 757 8801207",
+    "location": {
+      "lat": 30.55715177,
+      "lng": 47.83199847
+    },
+    "description": "Produces corrugated boxes, flexible packaging and sustainable paper-based solutions for food and retail sectors. Based in Basra. Certifications: HACCP.",
+    "website": "https://mosul-packaging-basra.iq",
+    "email": "mosul-packaging-basra@mosul-packaging-basra.iq"
+  },
+  {
+    "name": "Green Bio Basra",
+    "logoUrl": "n/a",
+    "governorate": "Basra",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2004,
+    "status": "active",
+    "phone": "+964 757 2566777",
+    "location": {
+      "lat": 30.5030904,
+      "lng": 47.83988226
+    },
+    "description": "Recycling and materials recovery facility focusing on plastic and cardboard separation for industrial reuse. Based in Basra.",
+    "website": "https://green-bio-basra.com",
+    "email": "green-bio-basra@green-bio-basra.com"
+  },
+  {
+    "name": "Prime Hassan Containers Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2010,
+    "status": "active",
+    "phone": "+964 761 7953166",
+    "location": {
+      "lat": 30.52225479,
+      "lng": 47.8805468
+    },
+    "description": "Produces corrugated boxes, flexible packaging and sustainable paper-based solutions for food and retail sectors. Based in Basra. Certifications: CE, ISO 13485.",
+    "website": "https://prime-hassan-containers-basra.iq",
+    "email": "prime-hassan-containers-basra@prime-hassan-containers-basra.iq"
+  },
+  {
+    "name": "Erbil Hassan Commerce Basra",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 763 8793853",
+    "location": {
+      "lat": 30.48502924,
+      "lng": 47.702766
+    },
+    "description": "Operates a B2C e-commerce marketplace with fulfilment and last-mile delivery for household goods and groceries. Based in Basra. Certifications: CE, ISO 9001.",
+    "website": "https://erbil-hassan-commerce-basra.com",
+    "email": "erbil-hassan-commerce-basra@erbil-hassan-commerce-basra.com"
+  },
+  {
+    "name": "Erbil Works Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2012,
+    "status": "active",
+    "phone": "+964 761 9468772",
+    "location": {
+      "lat": 36.36909046,
+      "lng": 43.24000792
+    },
+    "description": "Small-batch producers of handmade goods including soaps, candles, and embroidered textiles for retail and export. Based in Mosul. Certifications: HACCP.",
+    "website": "https://erbil-works-mosul.co",
+    "email": "erbil-works-mosul@erbil-works-mosul.co"
+  },
+  {
+    "name": "Smart Innovations Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2021,
+    "status": "active",
+    "phone": "+964 763 9130188",
+    "location": {
+      "lat": 36.37753229,
+      "lng": 43.20316274
+    },
+    "description": "A digital studio focusing on e-commerce platforms, payment integrations, and localised SaaS products. Based in Mosul. Certifications: GMP, ISO 13485.",
+    "website": "https://smart-innovations-mosul.iq",
+    "email": "smart-innovations-mosul@smart-innovations-mosul.iq"
+  },
+  {
+    "name": "New Recycling Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2005,
+    "status": "active",
+    "phone": "+964 751 3530518",
+    "location": {
+      "lat": 36.31394191,
+      "lng": 43.15803044
+    },
+    "description": "Recycling and materials recovery facility focusing on plastic and cardboard separation for industrial reuse. Based in Mosul. Certifications: GMP, HACCP.",
+    "website": "https://new-recycling-mosul.net",
+    "email": "new-recycling-mosul@new-recycling-mosul.net"
+  },
+  {
+    "name": "New Care Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Healthcare",
+    "establishedYear": 2009,
+    "status": "active",
+    "phone": "+964 760 7534336",
+    "location": {
+      "lat": 36.33315485,
+      "lng": 43.09136688
+    },
+    "description": "Manufactures medical disposables and basic consumables (gloves, syringes) and supplies local clinics and hospitals. Based in Mosul. Certifications: CE.",
+    "website": "https://new-care-mosul.co",
+    "email": "new-care-mosul@new-care-mosul.co"
+  },
+  {
+    "name": "Erbil Retail Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 760 4700025",
+    "location": {
+      "lat": 36.32799733,
+      "lng": 43.22832831
+    },
+    "description": "Retail distribution centre and online storefront serving local neighborhoods with grocery and personal care items. Based in Mosul. Certifications: GMP, HACCP.",
+    "website": "https://erbil-retail-mosul.net",
+    "email": "erbil-retail-mosul@erbil-retail-mosul.net"
+  },
+  {
+    "name": "Erbil Retail Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 751 9961107",
+    "location": {
+      "lat": 36.28300895,
+      "lng": 43.14347803
+    },
+    "description": "Operates a B2C e-commerce marketplace with fulfilment and last-mile delivery for household goods and groceries. Based in Mosul. Certifications: HACCP, ISO 9001.",
+    "website": "https://erbil-retail-mosul.org",
+    "email": "erbil-retail-mosul@erbil-retail-mosul.org"
+  },
+  {
+    "name": "Global Ibrahim Traditional Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 1996,
+    "status": "active",
+    "phone": "+964 761 6483562",
+    "location": {
+      "lat": 36.30203126,
+      "lng": 43.11547053
+    },
+    "description": "Small-batch producers of handmade goods including soaps, candles, and embroidered textiles for retail and export. Based in Mosul. Certifications: ISO 14001.",
+    "website": "https://global-ibrahim-traditional-mosul.iq",
+    "email": "global-ibrahim-traditional-mosul@global-ibrahim-traditional-mosul.iq"
+  },
+  {
+    "name": "Green PaperWorks Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2010,
+    "status": "active",
+    "phone": "+964 758 4761823",
+    "location": {
+      "lat": 36.25387666,
+      "lng": 43.15788381
+    },
+    "description": "Produces corrugated boxes, flexible packaging and sustainable paper-based solutions for food and retail sectors. Based in Mosul. Certifications: ISO 13485, ISO 9001.",
+    "website": "https://green-paperworks-mosul.com",
+    "email": "green-paperworks-mosul@green-paperworks-mosul.com"
+  },
+  {
+    "name": "Prime Beverages Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Food and Beverages",
+    "establishedYear": 1999,
+    "status": "active",
+    "phone": "+964 750 4656838",
+    "location": {
+      "lat": 36.29770899,
+      "lng": 43.14471221
+    },
+    "description": "A mid-sized food processor focusing on dairy, yogurt and packaged snack lines, supplying supermarkets across the governorate. Based in Mosul. Certifications: HACCP, ISO 13485.",
+    "website": "https://prime-beverages-mosul.co",
+    "email": "prime-beverages-mosul@prime-beverages-mosul.co"
+  },
+  {
+    "name": "Golden Engineering Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Trades and Services",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 750 1430812",
+    "location": {
+      "lat": 36.41386023,
+      "lng": 43.24294415
+    },
+    "description": "Engineering and maintenance firm offering industrial installation, fabrication and repair services for factories. Based in Mosul. Certifications: CE, ISO 14001.",
+    "website": "https://golden-engineering-mosul.com",
+    "email": "golden-engineering-mosul@golden-engineering-mosul.com"
+  },
+  {
+    "name": "Smart Omar E-Shop Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 2017,
+    "status": "active",
+    "phone": "+964 766 3030966",
+    "location": {
+      "lat": 36.40449618,
+      "lng": 43.22005865
+    },
+    "description": "Operates a B2C e-commerce marketplace with fulfilment and last-mile delivery for household goods and groceries. Based in Mosul. Certifications: CE.",
+    "website": "https://smart-omar-e-shop-mosul.com",
+    "email": "smart-omar-e-shop-mosul@smart-omar-e-shop-mosul.com"
+  },
+  {
+    "name": "Central Contracting Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Trades and Services",
+    "establishedYear": 2011,
+    "status": "active",
+    "phone": "+964 760 9224219",
+    "location": {
+      "lat": 36.37950865,
+      "lng": 43.05253043
+    },
+    "description": "Engineering and maintenance firm offering industrial installation, fabrication and repair services for factories. Based in Mosul. Certifications: HACCP, ISO 9001.",
+    "website": "https://central-contracting-mosul.com",
+    "email": "central-contracting-mosul@central-contracting-mosul.com"
+  },
+  {
+    "name": "Smart Eco Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2015,
+    "status": "active",
+    "phone": "+964 764 9111742",
+    "location": {
+      "lat": 36.30401648,
+      "lng": 43.21163984
+    },
+    "description": "Solar installer and small-scale renewable energy provider offering PV kits and installation for businesses. Based in Mosul. Certifications: HACCP.",
+    "website": "https://smart-eco-mosul.co",
+    "email": "smart-eco-mosul@smart-eco-mosul.co"
+  },
+  {
+    "name": "Fresh Trading Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Trades and Services",
+    "establishedYear": 2003,
+    "status": "active",
+    "phone": "+964 761 7358385",
+    "location": {
+      "lat": 36.42632624,
+      "lng": 43.09877269
+    },
+    "description": "Engineering and maintenance firm offering industrial installation, fabrication and repair services for factories. Based in Mosul. Certifications: ISO 14001, ISO 9001.",
+    "website": "https://fresh-trading-mosul.com",
+    "email": "fresh-trading-mosul@fresh-trading-mosul.com"
+  },
+  {
+    "name": "Golden Sami Contracting Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Trades and Services",
+    "establishedYear": 2003,
+    "status": "active",
+    "phone": "+964 755 1170307",
+    "location": {
+      "lat": 36.426064,
+      "lng": 43.19023675
+    },
+    "description": "Provides logistics, warehousing and supply chain services tailored to fast-moving consumer goods. Based in Mosul. Certifications: CE, GMP.",
+    "website": "https://golden-sami-contracting-mosul.net",
+    "email": "golden-sami-contracting-mosul@golden-sami-contracting-mosul.net"
+  },
+  {
+    "name": "Smart Care Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Healthcare",
+    "establishedYear": 2017,
+    "status": "active",
+    "phone": "+964 761 1289293",
+    "location": {
+      "lat": 36.34521862,
+      "lng": 43.19236848
+    },
+    "description": "Manufactures medical disposables and basic consumables (gloves, syringes) and supplies local clinics and hospitals. Based in Mosul. Certifications: ISO 14001, ISO 9001.",
+    "website": "https://smart-care-mosul.iq",
+    "email": "smart-care-mosul@smart-care-mosul.iq"
+  },
+  {
+    "name": "Smart E-Shop Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 2006,
+    "status": "active",
+    "phone": "+964 760 6549757",
+    "location": {
+      "lat": 36.3446521,
+      "lng": 43.15618439
+    },
+    "description": "Retail distribution centre and online storefront serving local neighborhoods with grocery and personal care items. Based in Mosul. Certifications: ISO 13485, ISO 14001.",
+    "website": "https://smart-e-shop-mosul.co",
+    "email": "smart-e-shop-mosul@smart-e-shop-mosul.co"
+  },
+  {
+    "name": "Royal Omar Fiber Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 1998,
+    "status": "active",
+    "phone": "+964 752 4213524",
+    "location": {
+      "lat": 36.39857621,
+      "lng": 43.24017551
+    },
+    "description": "Manufacturer of plastic films, stretch wrap and bottle caps serving food, beverage and logistics companies. Based in Mosul. Certifications: GMP, ISO 13485.",
+    "website": "https://royal-omar-fiber-mosul.net",
+    "email": "royal-omar-fiber-mosul@royal-omar-fiber-mosul.net"
+  },
+  {
+    "name": "Smart Fiber Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2004,
+    "status": "active",
+    "phone": "+964 770 9961299",
+    "location": {
+      "lat": 36.29549663,
+      "lng": 43.08588831
+    },
+    "description": "Produces corrugated boxes, flexible packaging and sustainable paper-based solutions for food and retail sectors. Based in Mosul. Certifications: GMP, ISO 14001.",
+    "website": "https://smart-fiber-mosul.iq",
+    "email": "smart-fiber-mosul@smart-fiber-mosul.iq"
+  },
+  {
+    "name": "Central Bakery Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2015,
+    "status": "active",
+    "phone": "+964 770 5770422",
+    "location": {
+      "lat": 36.42369224,
+      "lng": 43.14817574
+    },
+    "description": "A mid-sized food processor focusing on dairy, yogurt and packaged snack lines, supplying supermarkets across the governorate. Based in Mosul. Certifications: HACCP.",
+    "website": "https://central-bakery-mosul.iq",
+    "email": "central-bakery-mosul@central-bakery-mosul.iq"
+  },
+  {
+    "name": "Golden Services Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Trades and Services",
+    "establishedYear": 1998,
+    "status": "active",
+    "phone": "+964 772 1899411",
+    "location": {
+      "lat": 36.41442313,
+      "lng": 43.13014149
+    },
+    "description": "Engineering and maintenance firm offering industrial installation, fabrication and repair services for factories. Based in Mosul. Certifications: GMP.",
+    "website": "https://golden-services-mosul.org",
+    "email": "golden-services-mosul@golden-services-mosul.org"
+  },
+  {
+    "name": "Prime Handmade Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2014,
+    "status": "active",
+    "phone": "+964 763 7381684",
+    "location": {
+      "lat": 36.36922537,
+      "lng": 43.17368367
+    },
+    "description": "Small-batch producers of handmade goods including soaps, candles, and embroidered textiles for retail and export. Based in Mosul. Certifications: HACCP.",
+    "website": "https://prime-handmade-mosul.org",
+    "email": "prime-handmade-mosul@prime-handmade-mosul.org"
+  },
+  {
+    "name": "Royal Mart Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 753 5440025",
+    "location": {
+      "lat": 36.26984671,
+      "lng": 43.20254742
+    },
+    "description": "Operates a B2C e-commerce marketplace with fulfilment and last-mile delivery for household goods and groceries. Based in Mosul. Certifications: ISO 13485, ISO 9001.",
+    "website": "https://royal-mart-mosul.co",
+    "email": "royal-mart-mosul@royal-mart-mosul.co"
+  },
+  {
+    "name": "Golden Rashid Health Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Healthcare",
+    "establishedYear": 2017,
+    "status": "active",
+    "phone": "+964 754 5833597",
+    "location": {
+      "lat": 36.36876224,
+      "lng": 43.10825186
+    },
+    "description": "Pharmaceutical packaging and formulation unit producing OTC syrups and tablets under GMP-compliant lines. Based in Mosul. Certifications: ISO 13485, ISO 14001.",
+    "website": "https://golden-rashid-health-mosul.org",
+    "email": "golden-rashid-health-mosul@golden-rashid-health-mosul.org"
+  },
+  {
+    "name": "Global Artisans Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2016,
+    "status": "active",
+    "phone": "+964 750 4771676",
+    "location": {
+      "lat": 36.41078114,
+      "lng": 43.08956384
+    },
+    "description": "Small-batch producers of handmade goods including soaps, candles, and embroidered textiles for retail and export. Based in Mosul. Certifications: GMP, ISO 13485.",
+    "website": "https://global-artisans-mosul.co",
+    "email": "global-artisans-mosul@global-artisans-mosul.co"
+  },
+  {
+    "name": "New Sami Tech Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 761 3086308",
+    "location": {
+      "lat": 36.41484806,
+      "lng": 43.23423851
+    },
+    "description": "A digital studio focusing on e-commerce platforms, payment integrations, and localised SaaS products. Based in Mosul. Certifications: HACCP, ISO 13485.",
+    "website": "https://new-sami-tech-mosul.co",
+    "email": "new-sami-tech-mosul@new-sami-tech-mosul.co"
+  },
+  {
+    "name": "Royal Mart Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 1997,
+    "status": "active",
+    "phone": "+964 757 5200476",
+    "location": {
+      "lat": 36.36960733,
+      "lng": 43.22788458
+    },
+    "description": "Operates a B2C e-commerce marketplace with fulfilment and last-mile delivery for household goods and groceries. Based in Mosul. Certifications: ISO 9001.",
+    "website": "https://royal-mart-mosul.org",
+    "email": "royal-mart-mosul@royal-mart-mosul.org"
+  },
+  {
+    "name": "Green Bakery Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2010,
+    "status": "active",
+    "phone": "+964 755 4044882",
+    "location": {
+      "lat": 36.35379277,
+      "lng": 43.13844588
+    },
+    "description": "A mid-sized food processor focusing on dairy, yogurt and packaged snack lines, supplying supermarkets across the governorate. Based in Mosul. Certifications: CE, HACCP.",
+    "website": "https://green-bakery-mosul.iq",
+    "email": "green-bakery-mosul@green-bakery-mosul.iq"
+  },
+  {
+    "name": "Erbil Creations Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2016,
+    "status": "active",
+    "phone": "+964 760 9312590",
+    "location": {
+      "lat": 36.27091998,
+      "lng": 43.08216497
+    },
+    "description": "Small-batch producers of handmade goods including soaps, candles, and embroidered textiles for retail and export. Based in Mosul. Certifications: ISO 13485, ISO 14001.",
+    "website": "https://erbil-creations-mosul.net",
+    "email": "erbil-creations-mosul@erbil-creations-mosul.net"
+  },
+  {
+    "name": "Erbil Foods Co Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Food and Beverages",
+    "establishedYear": 1998,
+    "status": "active",
+    "phone": "+964 763 1019311",
+    "location": {
+      "lat": 36.44403695,
+      "lng": 43.13083501
+    },
+    "description": "A mid-sized food processor focusing on dairy, yogurt and packaged snack lines, supplying supermarkets across the governorate. Based in Mosul. Certifications: ISO 13485.",
+    "website": "https://erbil-foods-co-mosul.net",
+    "email": "erbil-foods-co-mosul@erbil-foods-co-mosul.net"
+  },
+  {
+    "name": "Al E-Shop Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 771 4415140",
+    "location": {
+      "lat": 36.34969862,
+      "lng": 43.13840819
+    },
+    "description": "Operates a B2C e-commerce marketplace with fulfilment and last-mile delivery for household goods and groceries. Based in Mosul. Certifications: CE, ISO 14001.",
+    "website": "https://al-e-shop-mosul.co",
+    "email": "al-e-shop-mosul@al-e-shop-mosul.co"
+  },
+  {
+    "name": "Erbil Nahla Boxes Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2017,
+    "status": "active",
+    "phone": "+964 764 7844947",
+    "location": {
+      "lat": 36.28167563,
+      "lng": 43.1601678
+    },
+    "description": "Produces corrugated boxes, flexible packaging and sustainable paper-based solutions for food and retail sectors. Based in Mosul. Certifications: GMP, ISO 9001.",
+    "website": "https://erbil-nahla-boxes-mosul.iq",
+    "email": "erbil-nahla-boxes-mosul@erbil-nahla-boxes-mosul.iq"
+  },
+  {
+    "name": "New Recycling Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2024,
+    "status": "active",
+    "phone": "+964 755 7970771",
+    "location": {
+      "lat": 36.39332067,
+      "lng": 43.1517744
+    },
+    "description": "Solar installer and small-scale renewable energy provider offering PV kits and installation for businesses. Based in Mosul. Certifications: HACCP.",
+    "website": "https://new-recycling-mosul.org",
+    "email": "new-recycling-mosul@new-recycling-mosul.org"
+  },
+  {
+    "name": "Erbil Medical Mosul",
+    "logoUrl": "n/a",
+    "governorate": "Mosul",
+    "industryType": "Healthcare",
+    "establishedYear": 2011,
+    "status": "active",
+    "phone": "+964 772 5634662",
+    "location": {
+      "lat": 36.39925851,
+      "lng": 43.07730167
+    },
+    "description": "Pharmaceutical packaging and formulation unit producing OTC syrups and tablets under GMP-compliant lines. Based in Mosul.",
+    "website": "https://erbil-medical-mosul.co",
+    "email": "erbil-medical-mosul@erbil-medical-mosul.co"
+  },
+  {
+    "name": "Modern Maintenance Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Trades and Services",
+    "establishedYear": 2004,
+    "status": "active",
+    "phone": "+964 765 9214801",
+    "location": {
+      "lat": 36.3952102,
+      "lng": 43.21749518
+    },
+    "description": "Engineering and maintenance firm offering industrial installation, fabrication and repair services for factories. Based in Mosul. Certifications: GMP.",
+    "website": "https://modern-maintenance-mosul.com",
+    "email": "modern-maintenance-mosul@modern-maintenance-mosul.com"
+  },
+  {
+    "name": "Basra Renewables Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2007,
+    "status": "active",
+    "phone": "+964 753 5006492",
+    "location": {
+      "lat": 36.34106892,
+      "lng": 43.11435547
+    },
+    "description": "Recycling and materials recovery facility focusing on plastic and cardboard separation for industrial reuse. Based in Mosul. Certifications: CE, HACCP.",
+    "website": "https://basra-renewables-mosul.co",
+    "email": "basra-renewables-mosul@basra-renewables-mosul.co"
+  },
+  {
+    "name": "Al Marketplace Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 2007,
+    "status": "active",
+    "phone": "+964 751 9310235",
+    "location": {
+      "lat": 36.4476828,
+      "lng": 43.20847873
+    },
+    "description": "Retail distribution centre and online storefront serving local neighborhoods with grocery and personal care items. Based in Mosul. Certifications: GMP, ISO 9001.",
+    "website": "https://al-marketplace-mosul.org",
+    "email": "al-marketplace-mosul@al-marketplace-mosul.org"
+  },
+  {
+    "name": "Fresh Ibrahim Collective Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 751 2255409",
+    "location": {
+      "lat": 36.27883108,
+      "lng": 43.22418659
+    },
+    "description": "Small-batch producers of handmade goods including soaps, candles, and embroidered textiles for retail and export. Based in Mosul. Certifications: HACCP.",
+    "website": "https://fresh-ibrahim-collective-mosul.com",
+    "email": "fresh-ibrahim-collective-mosul@fresh-ibrahim-collective-mosul.com"
+  },
+  {
+    "name": "United Supply Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Trades and Services",
+    "establishedYear": 2022,
+    "status": "active",
+    "phone": "+964 764 7375499",
+    "location": {
+      "lat": 36.31571312,
+      "lng": 43.1848715
+    },
+    "description": "Engineering and maintenance firm offering industrial installation, fabrication and repair services for factories. Based in Mosul. Certifications: ISO 13485, ISO 14001.",
+    "website": "https://united-supply-mosul.com",
+    "email": "united-supply-mosul@united-supply-mosul.com"
+  },
+  {
+    "name": "United Sami Foods Co Mosul",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 750 8443690",
+    "location": {
+      "lat": 36.26807587,
+      "lng": 43.24566755
+    },
+    "description": "A mid-sized food processor focusing on dairy, yogurt and packaged snack lines, supplying supermarkets across the governorate. Based in Mosul. Certifications: GMP, ISO 13485.",
+    "website": "https://united-sami-foods-co-mosul.iq",
+    "email": "united-sami-foods-co-mosul@united-sami-foods-co-mosul.iq"
+  },
+  {
+    "name": "Al Delights Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2006,
+    "status": "active",
+    "phone": "+964 763 7913081",
+    "location": {
+      "lat": 36.17247775,
+      "lng": 43.97474687
+    },
+    "description": "Produces canned and packaged food, specializing in tomato paste, canned fish, and date-based products for local and regional markets. Based in Erbil. Certifications: CE, ISO 13485.",
+    "website": "https://al-delights-erbil.net",
+    "email": "al-delights-erbil@al-delights-erbil.net"
+  },
+  {
+    "name": "Golden Solutions Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2014,
+    "status": "active",
+    "phone": "+964 765 3401116",
+    "location": {
+      "lat": 36.21563884,
+      "lng": 44.03460343
+    },
+    "description": "A digital studio focusing on e-commerce platforms, payment integrations, and localised SaaS products. Based in Erbil. Certifications: GMP, HACCP.",
+    "website": "https://golden-solutions-erbil.org",
+    "email": "golden-solutions-erbil@golden-solutions-erbil.org"
+  },
+  {
+    "name": "Royal Ibrahim Recycling Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2016,
+    "status": "active",
+    "phone": "+964 758 6018975",
+    "location": {
+      "lat": 36.19652374,
+      "lng": 43.96255652
+    },
+    "description": "Solar installer and small-scale renewable energy provider offering PV kits and installation for businesses. Based in Erbil. Certifications: HACCP, ISO 13485.",
+    "website": "https://royal-ibrahim-recycling-erbil.net",
+    "email": "royal-ibrahim-recycling-erbil@royal-ibrahim-recycling-erbil.net"
+  },
+  {
+    "name": "Fresh Rashid Renewables Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 1998,
+    "status": "active",
+    "phone": "+964 765 5963914",
+    "location": {
+      "lat": 36.1532088,
+      "lng": 44.04722686
+    },
+    "description": "Recycling and materials recovery facility focusing on plastic and cardboard separation for industrial reuse. Based in Erbil. Certifications: ISO 13485, ISO 14001.",
+    "website": "https://fresh-rashid-renewables-erbil.org",
+    "email": "fresh-rashid-renewables-erbil@fresh-rashid-renewables-erbil.org"
+  },
+  {
+    "name": "Royal Retail Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 2024,
+    "status": "active",
+    "phone": "+964 756 4860745",
+    "location": {
+      "lat": 36.20489691,
+      "lng": 44.03444364
+    },
+    "description": "Retail distribution centre and online storefront serving local neighborhoods with grocery and personal care items. Based in Erbil. Certifications: CE.",
+    "website": "https://royal-retail-erbil.com",
+    "email": "royal-retail-erbil@royal-retail-erbil.com"
+  },
+  {
+    "name": "Global Labs Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Healthcare",
+    "establishedYear": 2015,
+    "status": "active",
+    "phone": "+964 771 6183033",
+    "location": {
+      "lat": 36.13360295,
+      "lng": 44.05666788
+    },
+    "description": "Manufactures medical disposables and basic consumables (gloves, syringes) and supplies local clinics and hospitals. Based in Erbil. Certifications: HACCP.",
+    "website": "https://global-labs-erbil.iq",
+    "email": "global-labs-erbil@global-labs-erbil.iq"
+  },
+  {
+    "name": "Smart Sami Trading Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Trades and Services",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 764 7138070",
+    "location": {
+      "lat": 36.17817043,
+      "lng": 43.98413512
+    },
+    "description": "Engineering and maintenance firm offering industrial installation, fabrication and repair services for factories. Based in Erbil. Certifications: CE.",
+    "website": "https://smart-sami-trading-erbil.net",
+    "email": "smart-sami-trading-erbil@smart-sami-trading-erbil.net"
+  },
+  {
+    "name": "Royal Innovations Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 761 2263313",
+    "location": {
+      "lat": 36.24185557,
+      "lng": 44.08671953
+    },
+    "description": "Develops B2B software solutions, mobile apps, and provides web development and cloud services for regional SMEs. Based in Erbil. Certifications: GMP.",
+    "website": "https://royal-innovations-erbil.net",
+    "email": "royal-innovations-erbil@royal-innovations-erbil.net"
+  },
+  {
+    "name": "Fresh Direct Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 750 8630043",
+    "location": {
+      "lat": 36.17524044,
+      "lng": 43.99495796
+    },
+    "description": "Retail distribution centre and online storefront serving local neighborhoods with grocery and personal care items. Based in Erbil. Certifications: ISO 13485, ISO 14001.",
+    "website": "https://fresh-direct-erbil.com",
+    "email": "fresh-direct-erbil@fresh-direct-erbil.com"
+  },
+  {
+    "name": "Fresh Outlet Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 2016,
+    "status": "active",
+    "phone": "+964 764 6503032",
+    "location": {
+      "lat": 36.15273507,
+      "lng": 43.95425419
+    },
+    "description": "Operates a B2C e-commerce marketplace with fulfilment and last-mile delivery for household goods and groceries. Based in Erbil. Certifications: CE, GMP.",
+    "website": "https://fresh-outlet-erbil.com",
+    "email": "fresh-outlet-erbil@fresh-outlet-erbil.com"
+  },
+  {
+    "name": "Modern Recycling Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 1998,
+    "status": "active",
+    "phone": "+964 756 9264869",
+    "location": {
+      "lat": 36.13956878,
+      "lng": 44.11086446
+    },
+    "description": "Recycling and materials recovery facility focusing on plastic and cardboard separation for industrial reuse. Based in Erbil. Certifications: ISO 9001.",
+    "website": "https://modern-recycling-erbil.org",
+    "email": "modern-recycling-erbil@modern-recycling-erbil.org"
+  },
+  {
+    "name": "Mosul Innovations Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2008,
+    "status": "active",
+    "phone": "+964 760 2661307",
+    "location": {
+      "lat": 36.20222765,
+      "lng": 44.07352186
+    },
+    "description": "A digital studio focusing on e-commerce platforms, payment integrations, and localised SaaS products. Based in Erbil. Certifications: HACCP.",
+    "website": "https://mosul-innovations-erbil.co",
+    "email": "mosul-innovations-erbil@mosul-innovations-erbil.co"
+  },
+  {
+    "name": "Al Ibrahim Plastics Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2022,
+    "status": "active",
+    "phone": "+964 758 7017548",
+    "location": {
+      "lat": 36.17077605,
+      "lng": 44.11675771
+    },
+    "description": "Manufacturer of plastic films, stretch wrap and bottle caps serving food, beverage and logistics companies. Based in Erbil. Certifications: HACCP, ISO 9001.",
+    "website": "https://al-ibrahim-plastics-erbil.iq",
+    "email": "al-ibrahim-plastics-erbil@al-ibrahim-plastics-erbil.iq"
+  },
+  {
+    "name": "New Omar Biotech Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Healthcare",
+    "establishedYear": 1995,
+    "status": "active",
+    "phone": "+964 751 4442778",
+    "location": {
+      "lat": 36.12708099,
+      "lng": 44.00669656
+    },
+    "description": "Manufactures medical disposables and basic consumables (gloves, syringes) and supplies local clinics and hospitals. Based in Erbil. Certifications: ISO 9001.",
+    "website": "https://new-omar-biotech-erbil.co",
+    "email": "new-omar-biotech-erbil@new-omar-biotech-erbil.co"
+  },
+  {
+    "name": "Fresh Labs Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Healthcare",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 751 3180906",
+    "location": {
+      "lat": 36.24607434,
+      "lng": 43.95048204
+    },
+    "description": "Manufactures medical disposables and basic consumables (gloves, syringes) and supplies local clinics and hospitals. Based in Erbil. Certifications: CE, ISO 14001.",
+    "website": "https://fresh-labs-erbil.iq",
+    "email": "fresh-labs-erbil@fresh-labs-erbil.iq"
+  },
+  {
+    "name": "Global Nizar Crafts Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2013,
+    "status": "active",
+    "phone": "+964 771 3126655",
+    "location": {
+      "lat": 36.165328,
+      "lng": 43.97962185
+    },
+    "description": "Artisanal workshops producing handwoven textiles, pottery, and traditional crafts using local materials and techniques. Based in Erbil. Certifications: HACCP, ISO 13485.",
+    "website": "https://global-nizar-crafts-erbil.iq",
+    "email": "global-nizar-crafts-erbil@global-nizar-crafts-erbil.iq"
+  },
+  {
+    "name": "Erbil Collective Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2013,
+    "status": "active",
+    "phone": "+964 766 1727544",
+    "location": {
+      "lat": 36.13526756,
+      "lng": 44.03565258
+    },
+    "description": "Small-batch producers of handmade goods including soaps, candles, and embroidered textiles for retail and export. Based in Erbil. Certifications: ISO 13485.",
+    "website": "https://erbil-collective-erbil.co",
+    "email": "erbil-collective-erbil@erbil-collective-erbil.co"
+  },
+  {
+    "name": "Global Ibrahim Green Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2008,
+    "status": "active",
+    "phone": "+964 761 2232969",
+    "location": {
+      "lat": 36.21605365,
+      "lng": 44.03334571
+    },
+    "description": "Recycling and materials recovery facility focusing on plastic and cardboard separation for industrial reuse. Based in Erbil. Certifications: ISO 14001, ISO 9001.",
+    "website": "https://global-ibrahim-green-erbil.org",
+    "email": "global-ibrahim-green-erbil@global-ibrahim-green-erbil.org"
+  },
+  {
+    "name": "Golden Studio Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2012,
+    "status": "active",
+    "phone": "+964 766 9901266",
+    "location": {
+      "lat": 36.21970139,
+      "lng": 44.01475375
+    },
+    "description": "Small-batch producers of handmade goods including soaps, candles, and embroidered textiles for retail and export. Based in Erbil. Certifications: HACCP, ISO 14001.",
+    "website": "https://golden-studio-erbil.co",
+    "email": "golden-studio-erbil@golden-studio-erbil.co"
+  },
+  {
+    "name": "Green Handmade Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 754 7942639",
+    "location": {
+      "lat": 36.24116892,
+      "lng": 44.02311189
+    },
+    "description": "Small-batch producers of handmade goods including soaps, candles, and embroidered textiles for retail and export. Based in Erbil. Certifications: ISO 14001.",
+    "website": "https://green-handmade-erbil.co",
+    "email": "green-handmade-erbil@green-handmade-erbil.co"
+  },
+  {
+    "name": "Mosul Rashid Outlet Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Retail and E-commerce",
+    "establishedYear": 2016,
+    "status": "active",
+    "phone": "+964 762 2126310",
+    "location": {
+      "lat": 36.15568457,
+      "lng": 44.11211073
+    },
+    "description": "Operates a B2C e-commerce marketplace with fulfilment and last-mile delivery for household goods and groceries. Based in Erbil. Certifications: ISO 9001.",
+    "website": "https://mosul-rashid-outlet-erbil.net",
+    "email": "mosul-rashid-outlet-erbil@mosul-rashid-outlet-erbil.net"
+  },
+  {
+    "name": "Mosul Handmade Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 764 6530541",
+    "location": {
+      "lat": 36.13821616,
+      "lng": 43.96019677
+    },
+    "description": "Small-batch producers of handmade goods including soaps, candles, and embroidered textiles for retail and export. Based in Erbil. Certifications: ISO 13485, ISO 9001.",
+    "website": "https://mosul-handmade-erbil.net",
+    "email": "mosul-handmade-erbil@mosul-handmade-erbil.net"
+  },
+  {
+    "name": "Fresh Supply Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Trades and Services",
+    "establishedYear": 2022,
+    "status": "active",
+    "phone": "+964 756 6242022",
+    "location": {
+      "lat": 36.24821811,
+      "lng": 43.95874583
+    },
+    "description": "Provides logistics, warehousing and supply chain services tailored to fast-moving consumer goods. Based in Erbil. Certifications: ISO 14001, ISO 9001.",
+    "website": "https://fresh-supply-erbil.org",
+    "email": "fresh-supply-erbil@fresh-supply-erbil.org"
+  },
+  {
+    "name": "Global Yousef Innovations Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2022,
+    "status": "active",
+    "phone": "+964 755 4794319",
+    "location": {
+      "lat": 36.19787717,
+      "lng": 43.9695305
+    },
+    "description": "Develops B2B software solutions, mobile apps, and provides web development and cloud services for regional SMEs. Based in Erbil. Certifications: HACCP.",
+    "website": "https://global-yousef-innovations-erbil.net",
+    "email": "global-yousef-innovations-erbil@global-yousef-innovations-erbil.net"
+  },
+  {
+    "name": "Al Pack Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2024,
+    "status": "active",
+    "phone": "+964 751 7724045",
+    "location": {
+      "lat": 36.16757545,
+      "lng": 43.95103798
+    },
+    "description": "Produces corrugated boxes, flexible packaging and sustainable paper-based solutions for food and retail sectors. Based in Erbil. Certifications: GMP, ISO 9001.",
+    "website": "https://al-pack-erbil.net",
+    "email": "al-pack-erbil@al-pack-erbil.net"
+  },
+  {
+    "name": "Smart Artisans Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2005,
+    "status": "active",
+    "phone": "+964 757 2425342",
+    "location": {
+      "lat": 36.1420373,
+      "lng": 44.00297835
+    },
+    "description": "Artisanal workshops producing handwoven textiles, pottery, and traditional crafts using local materials and techniques. Based in Erbil. Certifications: GMP, ISO 9001.",
+    "website": "https://smart-artisans-erbil.org",
+    "email": "smart-artisans-erbil@smart-artisans-erbil.org"
+  },
+  {
+    "name": "Global Foods Co Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2010,
+    "status": "active",
+    "phone": "+964 753 9595744",
+    "location": {
+      "lat": 36.20499064,
+      "lng": 44.02041124
+    },
+    "description": "A mid-sized food processor focusing on dairy, yogurt and packaged snack lines, supplying supermarkets across the governorate. Based in Erbil. Certifications: ISO 14001, ISO 9001.",
+    "website": "https://global-foods-co-erbil.org",
+    "email": "global-foods-co-erbil@global-foods-co-erbil.org"
+  },
+  {
+    "name": "Royal Collective Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 1996,
+    "status": "active",
+    "phone": "+964 771 1128967",
+    "location": {
+      "lat": 36.15087258,
+      "lng": 44.11735576
+    },
+    "description": "Artisanal workshops producing handwoven textiles, pottery, and traditional crafts using local materials and techniques. Based in Erbil. Certifications: GMP, ISO 14001.",
+    "website": "https://royal-collective-erbil.net",
+    "email": "royal-collective-erbil@royal-collective-erbil.net"
+  },
+  {
+    "name": "Green Labs Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Tech and Digital",
+    "establishedYear": 1995,
+    "status": "active",
+    "phone": "+964 751 7378822",
+    "location": {
+      "lat": 36.18963395,
+      "lng": 44.02321135
+    },
+    "description": "Develops B2B software solutions, mobile apps, and provides web development and cloud services for regional SMEs. Based in Erbil. Certifications: CE, ISO 13485.",
+    "website": "https://green-labs-erbil.com",
+    "email": "green-labs-erbil@green-labs-erbil.com"
+  },
+  {
+    "name": "New Contracting Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Trades and Services",
+    "establishedYear": 2008,
+    "status": "active",
+    "phone": "+964 757 8202195",
+    "location": {
+      "lat": 36.12262382,
+      "lng": 44.10659761
+    },
+    "description": "Engineering and maintenance firm offering industrial installation, fabrication and repair services for factories. Based in Erbil. Certifications: CE, HACCP.",
+    "website": "https://new-contracting-erbil.com",
+    "email": "new-contracting-erbil@new-contracting-erbil.com"
+  },
+  {
+    "name": "New Nizar PaperWorks Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 758 2478574",
+    "location": {
+      "lat": 36.252666,
+      "lng": 44.02821647
+    },
+    "description": "Produces corrugated boxes, flexible packaging and sustainable paper-based solutions for food and retail sectors. Based in Erbil. Certifications: HACCP.",
+    "website": "https://new-nizar-paperworks-erbil.iq",
+    "email": "new-nizar-paperworks-erbil@new-nizar-paperworks-erbil.iq"
+  },
+  {
+    "name": "Mosul Care Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Healthcare",
+    "establishedYear": 2022,
+    "status": "active",
+    "phone": "+964 757 3820798",
+    "location": {
+      "lat": 36.16343844,
+      "lng": 44.00771726
+    },
+    "description": "Manufactures medical disposables and basic consumables (gloves, syringes) and supplies local clinics and hospitals. Based in Erbil. Certifications: CE, ISO 9001.",
+    "website": "https://mosul-care-erbil.org",
+    "email": "mosul-care-erbil@mosul-care-erbil.org"
+  },
+  {
+    "name": "Modern Supplies Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Healthcare",
+    "establishedYear": 2002,
+    "status": "active",
+    "phone": "+964 752 3564729",
+    "location": {
+      "lat": 36.13439263,
+      "lng": 43.9935146
+    },
+    "description": "Manufactures medical disposables and basic consumables (gloves, syringes) and supplies local clinics and hospitals. Based in Erbil.",
+    "website": "https://modern-supplies-erbil.iq",
+    "email": "modern-supplies-erbil@modern-supplies-erbil.iq"
+  },
+  {
+    "name": "Green Innovations Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 765 6422534",
+    "location": {
+      "lat": 36.20112553,
+      "lng": 44.06579269
+    },
+    "description": "A digital studio focusing on e-commerce platforms, payment integrations, and localised SaaS products. Based in Erbil. Certifications: ISO 13485.",
+    "website": "https://green-innovations-erbil.co",
+    "email": "green-innovations-erbil@green-innovations-erbil.co"
+  },
+  {
+    "name": "Erbil Solutions Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 763 2244712",
+    "location": {
+      "lat": 36.15845431,
+      "lng": 43.95954926
+    },
+    "description": "A digital studio focusing on e-commerce platforms, payment integrations, and localised SaaS products. Based in Erbil. Certifications: HACCP, ISO 14001.",
+    "website": "https://erbil-solutions-erbil.net",
+    "email": "erbil-solutions-erbil@erbil-solutions-erbil.net"
+  },
+  {
+    "name": "Al Delights Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2015,
+    "status": "active",
+    "phone": "+964 766 9507186",
+    "location": {
+      "lat": 36.240995,
+      "lng": 44.09539987
+    },
+    "description": "Produces canned and packaged food, specializing in tomato paste, canned fish, and date-based products for local and regional markets. Based in Erbil. Certifications: HACCP.",
+    "website": "https://al-delights-erbil.com",
+    "email": "al-delights-erbil@al-delights-erbil.com"
+  },
+  {
+    "name": "Modern Bio Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2005,
+    "status": "active",
+    "phone": "+964 771 8558523",
+    "location": {
+      "lat": 36.20470082,
+      "lng": 44.03523244
+    },
+    "description": "Solar installer and small-scale renewable energy provider offering PV kits and installation for businesses. Based in Erbil. Certifications: ISO 9001.",
+    "website": "https://modern-bio-erbil.iq",
+    "email": "modern-bio-erbil@modern-bio-erbil.iq"
+  },
+  {
+    "name": "Central Ibrahim Works Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Homemade and Craft",
+    "establishedYear": 2011,
+    "status": "active",
+    "phone": "+964 758 5746166",
+    "location": {
+      "lat": 36.19318472,
+      "lng": 43.97698686
+    },
+    "description": "Small-batch producers of handmade goods including soaps, candles, and embroidered textiles for retail and export. Based in Erbil. Certifications: HACCP.",
+    "website": "https://central-ibrahim-works-erbil.org",
+    "email": "central-ibrahim-works-erbil@central-ibrahim-works-erbil.org"
+  },
+  {
+    "name": "Green Yousef Delights Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2016,
+    "status": "active",
+    "phone": "+964 766 3522845",
+    "location": {
+      "lat": 36.17411899,
+      "lng": 43.99283928
+    },
+    "description": "Produces canned and packaged food, specializing in tomato paste, canned fish, and date-based products for local and regional markets. Based in Erbil. Certifications: ISO 14001, ISO 9001.",
+    "website": "https://green-yousef-delights-erbil.co",
+    "email": "green-yousef-delights-erbil@green-yousef-delights-erbil.co"
+  },
+  {
+    "name": "Royal Supply Erbil",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Trades and Services",
+    "establishedYear": 1999,
+    "status": "active",
+    "phone": "+964 756 7319630",
+    "location": {
+      "lat": 36.20330577,
+      "lng": 44.10946037
+    },
+    "description": "Engineering and maintenance firm offering industrial installation, fabrication and repair services for factories. Based in Erbil. Certifications: ISO 13485.",
+    "website": "https://royal-supply-erbil.org",
+    "email": "royal-supply-erbil@royal-supply-erbil.org"
+  },
+  {
+    "name": "Baghdad Artisans Cooperative",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 770 112 3344",
+    "location": { "lat": 33.3152, "lng": 44.3661 },
+    "description": "A cooperative of local artisans specializing in ceramics, embroidery, and traditional woodcrafts, preserving Baghdad’s cultural artistry.",
+    "website": "https://baghdad-artisans.coop",
+    "email": "info@baghdad-artisans.coop"
+  },
+  {
+    "name": "Tigris Creative Studio",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 771 223 5566",
+    "location": { "lat": 33.309, "lng": 44.396 },
+    "description": "Specializes in hand-crafted gifts, resin art, and sustainable home decor pieces made by Baghdad’s young artists.",
+    "website": "https://tigriscreative.com",
+    "email": "contact@tigriscreative.com"
+  },
+  {
+    "name": "CraftWorks Iraq",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2021,
+    "status": "active",
+    "phone": "+964 772 990 1122",
+    "location": { "lat": 33.325, "lng": 44.355 },
+    "description": "Suppliers of handmade jewelry, calligraphy art, and textile crafts serving boutique shops and galleries in Baghdad.",
+    "website": "https://craftworksiraq.com",
+    "email": "sales@craftworksiraq.com"
+  },
+
+  {
+    "name": "Baghdad Fresh Foods Co.",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2015,
+    "status": "active",
+    "phone": "+964 770 556 7788",
+    "location": { "lat": 33.3185, "lng": 44.399 },
+    "description": "A supplier of fresh produce, snacks, and bottled beverages distributed to supermarkets across Baghdad.",
+    "website": "https://baghdadfreshfoods.com",
+    "email": "info@baghdadfreshfoods.com"
+  },
+  {
+    "name": "Tigris Beverage Industries",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2017,
+    "status": "active",
+    "phone": "+964 771 778 9988",
+    "location": { "lat": 33.314, "lng": 44.362 },
+    "description": "Producer and distributor of non-alcoholic beverages, juices, and bottled water for retail and hospitality sectors in Baghdad.",
+    "website": "https://tigrisbeverages.com",
+    "email": "contact@tigrisbeverages.com"
+  },
+  {
+    "name": "Golden Grain Bakery Supplies",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 772 220 3344",
+    "location": { "lat": 33.321, "lng": 44.378 },
+    "description": "Suppliers of flour, yeast, and confectionery materials to bakeries and restaurants throughout Baghdad.",
+    "website": "https://goldengrainiq.com",
+    "email": "support@goldengrainiq.com"
+  },
+
+  {
+    "name": "Digital Wave Solutions",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 909 4545",
+    "location": { "lat": 33.313, "lng": 44.392 },
+    "description": "Provides software development, IT consulting, and network infrastructure solutions for SMEs in Baghdad.",
+    "website": "https://digitalwaveiq.com",
+    "email": "info@digitalwaveiq.com"
+  },
+  {
+    "name": "NextGen IT Systems",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 771 333 0099",
+    "location": { "lat": 33.319, "lng": 44.357 },
+    "description": "An Iraqi technology supplier offering ERP software, data security, and hardware distribution.",
+    "website": "https://nextgenitsystems.com",
+    "email": "support@nextgenitsystems.com"
+  },
+  {
+    "name": "Baghdad E-Shop 1",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Retail and E-Commerce",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 201 0001",
+    "location": { "lat": 33.3128, "lng": 44.3615 },
+    "description": "Online store offering electronics, home goods, and clothing in Baghdad."
+  },
+  {
+    "name": "Baghdad E-Shop 2",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Retail and E-Commerce",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 201 0002",
+    "location": { "lat": 33.3130, "lng": 44.3620 },
+    "description": "E-commerce platform serving Baghdad residents with fast delivery."
+  },
+  {
+    "name": "Baghdad E-Shop 3",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Retail and E-Commerce",
+    "establishedYear": 2021,
+    "status": "active",
+    "phone": "+964 770 201 0003",
+    "location": { "lat": 33.3132, "lng": 44.3625 },
+    "description": "Online marketplace for fashion, electronics, and household items."
+  },
+  {
+    "name": "Baghdad Trades 1",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Trades and Services",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 770 202 0001",
+    "location": { "lat": 33.3140, "lng": 44.3630 },
+    "description": "Construction and maintenance service provider."
+  },
+  {
+    "name": "Baghdad Trades 2",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Trades and Services",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 202 0002",
+    "location": { "lat": 33.3142, "lng": 44.3635 },
+    "description": "Plumbing, electrical, and general repair services in Baghdad."
+  },
+  {
+    "name": "Baghdad Trades 3",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Trades and Services",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 202 0003",
+    "location": { "lat": 33.3145, "lng": 44.3640 },
+    "description": "Professional trades services specializing in building and repair."
+  },
+  {
+    "name": "Baghdad Packaging 1",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 203 0001",
+    "location": { "lat": 33.3150, "lng": 44.3645 },
+    "description": "Supplier of packaging boxes, bottles, and eco-friendly containers."
+  },
+  {
+    "name": "Baghdad Packaging 2",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 203 0002",
+    "location": { "lat": 33.3153, "lng": 44.3650 },
+    "description": "Industrial and retail packaging solutions provider."
+  },
+  {
+    "name": "Baghdad Packaging 3",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2021,
+    "status": "active",
+    "phone": "+964 770 203 0003",
+    "location": { "lat": 33.3155, "lng": 44.3655 },
+    "description": "Supplier of packaging materials for food and retail industries."
+  },
+  {
+    "name": "Baghdad Green Energy 1",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2021,
+    "status": "active",
+    "phone": "+964 770 204 0001",
+    "location": { "lat": 33.3160, "lng": 44.3660 },
+    "description": "Provider of solar panels, renewable energy, and eco-friendly solutions."
+  },
+  {
+    "name": "Baghdad Green Energy 2",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 204 0002",
+    "location": { "lat": 33.3163, "lng": 44.3665 },
+    "description": "Company specializing in green energy and sustainability consulting."
+  },
+  {
+    "name": "Baghdad Green Energy 3",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 204 0003",
+    "location": { "lat": 33.3165, "lng": 44.3670 },
+    "description": "Supplier of solar panels and sustainable energy solutions."
+  },
+  {
+    "name": "Baghdad Health 1",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Healthcare",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 770 206 0001",
+    "location": { "lat": 33.3180, "lng": 44.3690 },
+    "description": "Manufacturer and distributor of medical and healthcare products."
+  },
+  {
+    "name": "Baghdad Health 2",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Healthcare",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 206 0002",
+    "location": { "lat": 33.3183, "lng": 44.3695 },
+    "description": "Supplier of hospital equipment, medicines, and health supplies."
+  },
+  {
+    "name": "Baghdad Health 3",
+    "logoUrl": "./Baghdad.jpeg",
+    "governorate": "Baghdad",
+    "industryType": "Healthcare",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 206 0003",
+    "location": { "lat": 33.3185, "lng": 44.3700 },
+    "description": "Distributor of healthcare products and medical consumables."
+  },
+  {
+    "name": "Mosul Crafts 1",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 301 0001",
+    "location": { "lat": 36.3400, "lng": 43.1310 },
+    "description": "Handmade pottery, jewelry, and home decor items."
+  },
+  {
+    "name": "Mosul Crafts 2",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 301 0002",
+    "location": { "lat": 36.3405, "lng": 43.1315 },
+    "description": "Workshop producing handmade textiles and traditional crafts."
+  },
+  {
+    "name": "Mosul Crafts 3",
+    "logoUrl": "./mosul.jpg",
+    "governorate": "Mosul",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2021,
+    "status": "active",
+    "phone": "+964 770 301 0003",
+    "location": { "lat": 36.3410, "lng": 43.1320 },
+    "description": "Artisan studio for local crafts, gifts, and decorative items."
+  },
+  {
+    "name": "Erbil Crafts 1",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 770 401 0001",
+    "location": { "lat": 36.1911, "lng": 44.0094 },
+    "description": "Local handmade jewelry and crafts studio."
+  },
+  {
+    "name": "Erbil Crafts 2",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 401 0002",
+    "location": { "lat": 36.1915, "lng": 44.0098 },
+    "description": "Artisan workshop producing handmade textiles and home decor."
+  },
+  {
+    "name": "Erbil Crafts 3",
+    "logoUrl": "./ERBIL.webp",
+    "governorate": "Erbil",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 401 0003",
+    "location": { "lat": 36.1920, "lng": 44.0102 },
+    "description": "Workshop for traditional crafts and gift items."
+  },
+  {
+    "name": "Basra Crafts 1",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 501 0001",
+    "location": { "lat": 30.5085, "lng": 47.7835 },
+    "description": "Handmade pottery, decorative crafts, and local art."
+  },
+  {
+    "name": "Basra Crafts 2",
+    "logoUrl": "https://via.placeholder.com/150",
+    "governorate": "Basra",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 501 0002",
+    "location": { "lat": 30.5090, "lng": 47.7840 },
+    "description": "Studio producing handmade textiles and artisan crafts."
+  },
+  {
+    "name": "Basra Crafts 3",
+    "logoUrl": "./basracity.jpg",
+    "governorate": "Basra",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2021,
+    "status": "active",
+    "phone": "+964 770 501 0003",
+    "location": { "lat": 30.5095, "lng": 47.7845 },
+    "description": "Workshop specializing in traditional handmade gift items."
+  },
+  {
+    "name": "Kirkuk E-Shop 1",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Retail and E-Commerce",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 101 0001",
+    "location": { "lat": 35.4681, "lng": 44.3922 },
+    "description": "Online platform selling electronics, fashion, and home products across Kirkuk."
+  },
+  {
+    "name": "Kirkuk E-Shop 2",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Retail and E-Commerce",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 101 0002",
+    "location": { "lat": 35.4683, "lng": 44.3925 },
+    "description": "E-commerce store providing fast delivery of consumer goods in Kirkuk."
+  },
+  {
+    "name": "Kirkuk E-Shop 3",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Retail and E-Commerce",
+    "establishedYear": 2021,
+    "status": "active",
+    "phone": "+964 770 101 0003",
+    "location": { "lat": 35.4685, "lng": 44.3928 },
+    "description": "Online marketplace offering electronics, accessories, and household items."
+  },
+  {
+    "name": "Kirkuk Handmade Crafts 1",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2017,
+    "status": "active",
+    "phone": "+964 770 102 0001",
+    "location": { "lat": 35.4688, "lng": 44.3930 },
+    "description": "Local artisans producing handmade jewelry, pottery, and decor items."
+  },
+  {
+    "name": "Kirkuk Handmade Crafts 2",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 770 102 0002",
+    "location": { "lat": 35.4690, "lng": 44.3933 },
+    "description": "Studio for handmade textiles, traditional crafts, and gift items."
+  },
+  {
+    "name": "Kirkuk Handmade Crafts 3",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Handmade and Craft",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 102 0003",
+    "location": { "lat": 35.4692, "lng": 44.3935 },
+    "description": "Artisan workshop for handmade home decor and craft supplies."
+  },
+  {
+    "name": "Kirkuk Fresh Foods 1",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 103 0001",
+    "location": { "lat": 35.4695, "lng": 44.3938 },
+    "description": "Supplier of fresh fruits, vegetables, and beverages to local markets."
+  },
+  {
+    "name": "Kirkuk Fresh Foods 2",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2021,
+    "status": "active",
+    "phone": "+964 770 103 0002",
+    "location": { "lat": 35.4698, "lng": 44.3940 },
+    "description": "Distributor of packaged foods and beverages for supermarkets in Kirkuk."
+  },
+  {
+    "name": "Kirkuk Fresh Foods 3",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Food and Beverages",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 103 0003",
+    "location": { "lat": 35.4700, "lng": 44.3943 },
+    "description": "Local supplier of fresh dairy, snacks, and beverages."
+  },
+  {
+    "name": "Kirkuk Tech Solutions 1",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2021,
+    "status": "active",
+    "phone": "+964 770 104 0001",
+    "location": { "lat": 35.4703, "lng": 44.3945 },
+    "description": "Software development company specializing in mobile apps and web solutions."
+  },
+  {
+    "name": "Kirkuk Tech Solutions 2",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 104 0002",
+    "location": { "lat": 35.4705, "lng": 44.3948 },
+    "description": "IT services and digital marketing solutions provider in Kirkuk."
+  },
+  {
+    "name": "Kirkuk Tech Solutions 3",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Tech and Digital",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 104 0003",
+    "location": { "lat": 35.4708, "lng": 44.3950 },
+    "description": "Provider of web development, cloud services, and IT support."
+  },
+  {
+    "name": "Kirkuk Health Supplies 1",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Healthcare",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 770 105 0001",
+    "location": { "lat": 35.4710, "lng": 44.3953 },
+    "description": "Distributor of medical equipment and healthcare products in Kirkuk."
+  },
+  {
+    "name": "Kirkuk Health Supplies 2",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Healthcare",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 105 0002",
+    "location": { "lat": 35.4713, "lng": 44.3955 },
+    "description": "Supplier of hospital equipment and medical consumables."
+  },
+  {
+    "name": "Kirkuk Health Supplies 3",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Healthcare",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 105 0003",
+    "location": { "lat": 35.4715, "lng": 44.3958 },
+    "description": "Manufacturer and distributor of health and hygiene products."
+  },
+  {
+    "name": "Kirkuk Trades & Co. 1",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Trades and Services",
+    "establishedYear": 2016,
+    "status": "active",
+    "phone": "+964 770 106 0001",
+    "location": { "lat": 35.4718, "lng": 44.3960 },
+    "description": "Construction, electrical, and plumbing services provider."
+  },
+  {
+    "name": "Kirkuk Trades & Co. 2",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Trades and Services",
+    "establishedYear": 2017,
+    "status": "active",
+    "phone": "+964 770 106 0002",
+    "location": { "lat": 35.4720, "lng": 44.3963 },
+    "description": "Provider of professional trades and repair services in Kirkuk."
+  },
+  {
+    "name": "Kirkuk Trades & Co. 3",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Trades and Services",
+    "establishedYear": 2018,
+    "status": "active",
+    "phone": "+964 770 106 0003",
+    "location": { "lat": 35.4723, "lng": 44.3965 },
+    "description": "Specialized services in construction, maintenance, and repair."
+  },
+  {
+    "name": "Kirkuk Packaging Solutions 1",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 107 0001",
+    "location": { "lat": 35.4725, "lng": 44.3968 },
+    "description": "Supplier of packaging materials including boxes, bottles, and eco-friendly containers."
+  },
+  {
+    "name": "Kirkuk Packaging Solutions 2",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 107 0002",
+    "location": { "lat": 35.4728, "lng": 44.3970 },
+    "description": "Provider of industrial packaging, labeling, and materials for manufacturers."
+  },
+  {
+    "name": "Kirkuk Packaging Solutions 3",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Packaging and Materials",
+    "establishedYear": 2021,
+    "status": "active",
+    "phone": "+964 770 107 0003",
+    "location": { "lat": 35.4730, "lng": 44.3973 },
+    "description": "Packaging supplier for retail, food, and beverage industries."
+  },
+  {
+    "name": "Kirkuk Green Energy 1",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2021,
+    "status": "active",
+    "phone": "+964 770 108 0001",
+    "location": { "lat": 35.4733, "lng": 44.3975 },
+    "description": "Provider of solar panels, renewable energy solutions, and eco-friendly consulting."
+  },
+  {
+    "name": "Kirkuk Green Energy 2",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2020,
+    "status": "active",
+    "phone": "+964 770 108 0002",
+    "location": { "lat": 35.4735, "lng": 44.3978 },
+    "description": "Company specializing in green energy solutions and sustainability consulting."
+  },
+  {
+    "name": "Kirkuk Green Energy 3",
+    "logoUrl": "./kirkuk.png",
+    "governorate": "Kirkuk",
+    "industryType": "Sustainability and Green",
+    "establishedYear": 2019,
+    "status": "active",
+    "phone": "+964 770 108 0003",
+    "location": { "lat": 35.4738, "lng": 44.3980 },
+    "description": "Supplier of solar systems and sustainable energy solutions for businesses."
+  }
+]
+
+

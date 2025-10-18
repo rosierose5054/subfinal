@@ -1,0 +1,277 @@
+/* Full width soft white background */
+.factories-container {
+  background-color: #f8f8f8;
+  min-height: 100vh;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navigation bar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;       /* vertical center */
+  height: 100px;             /* fixed navbar height */
+  padding: 0 2rem;           /* horizontal padding */
+  background: transparent;
+  box-sizing: border-box;
+}
+
+/* Logo */
+.logo {
+  display: flex;
+  align-items: center;       /* vertical center logo image */
+  height: 100%;              /* match navbar height */
+}
+
+.logo img {
+  max-height: 85px;          /* adjust to fit perfectly inside navbar */
+  width: auto;
+  display: block;
+  margin: 0;
+}
+
+/* Menu links */
+.nav-links {
+  display: flex;
+  align-items: center;       /* vertical center links */
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 2rem;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  font-family: 'Montserrat', sans-serif;
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #fe6703;
+}
+
+/* Factories page content */
+.factories-content {
+  padding: 2rem;
+  text-align: center;
+}
+
+/* ✅ Wrapper for city menu + search bar (stretches full width under navbar) */
+.menu-bar-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* start items at left; we'll push search to the right */
+  width: 100%;
+  padding: 1.5rem 2rem;        /* spacing from page edges and below navbar */
+  box-sizing: border-box;
+  gap: 1.5rem;
+  margin: 0;                   /* control spacing via padding above */
+}
+
+/* ✅ City Menu Bar Styles */
+.city-menu {
+  display: flex;
+  justify-content: flex-start;
+  gap: 1rem;
+  background-color: #f5f5f5;
+  padding: 1rem 1.5rem;
+  border-radius: 40px;
+  width: fit-content;          /* only as wide as its contents */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.20);
+  margin: 0;
+  order: 0;                    /* ensure it's first */
+}
+
+/* City Buttons */
+.city-btn {
+  background-color: #fff;        /* white by default */
+  border: 2px solid #fe6703;     /* orange border */
+  border-radius: 25px;
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  cursor: pointer;
+  color: #fe6703;                /* orange text */
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
+  transition: all 0.3s ease;
+}
+
+.city-btn:hover {
+  background-color: #fe6703;
+  color: #fff;
+}
+
+.city-btn.active {
+  background-color: #fe6703;
+  color: #fff;
+  border-color: #fe6703;
+}
+
+/* ✅ Search bar is forced to the far right of the wrapper */
+.search-bar {
+  padding: 0.6rem 1rem;
+  border: 2px solid #fe6703d5;
+  border-radius: 25px;
+  font-size: 1rem;
+  font-family: 'Montserrat', sans-serif;
+  outline: none;
+  transition: all 0.3s ease;
+  width: 220px;
+  background-color: #f5f5f5;
+
+  margin-left: auto;    /* THIS pushes the search to the right */
+  order: 1;             /* ensure it comes after the menu visually */
+}
+
+.search-bar:focus {
+  border-color: #ff7b00;
+  box-shadow: 0 0 6px rgba(254, 103, 3, 0.5);
+}
+/* ✅ Business type pills container */
+.business-types {
+  display: flex;
+  flex-wrap: wrap;                 /* allow wrapping to next line */
+  justify-content: center;         /* center the pills horizontally */
+  gap: 1rem;
+  margin: 0 2rem 2rem 2rem;        /* spacing around the block */
+  padding: 1rem 1.5rem;
+  background-color: #ffffff;
+  border-radius: 30px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* ✅ Individual pill buttons */
+.type-btn {
+  background-color: #fff;
+  border: 2px solid #fe6703;
+  border-radius: 25px;
+  padding: 0.5rem 1rem;
+  font-size: 0.95rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #fe6703;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  white-space: nowrap;            /* prevent text wrapping */
+}
+
+.type-btn:hover {
+  background-color: #fe6703;
+  color: #fff;
+}
+
+.type-btn.active {
+  background-color: #fe6703;
+  color: #fff;
+  border-color: #fe6703;
+}
+/* ✅ Factories grid layout */
+.factories-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 cards per row */
+  gap: 2rem;
+  padding: 2rem 3rem;
+  justify-items: center;
+}
+
+/* ✅ Individual factory cards */
+.factory-card {
+  background-color: #ffffff;
+  border: 2px solid #f1f1f1;
+  border-radius: 20px;
+  padding: 2px;
+  width: 100%;
+  max-width: 320px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  text-align: center;
+  transition: all 0.3s ease;
+  margin-top: -40px;
+}
+
+.factory-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* ✅ Card image */
+.factory-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-bottom: 2px solid #fe6703;
+}
+
+/* ✅ Card title */
+.factory-card h3 {
+  margin: 1rem 0 0.5rem;
+  color: #333;
+  font-size: 1.2rem;
+}
+
+/* ✅ Card description */
+.factory-card p {
+  color: #666;
+  font-size: 0.95rem;
+  padding: 0 1rem 1.5rem;
+  line-height: 1.4;
+}
+
+/* ✅ Responsive design */
+@media (max-width: 1024px) {
+  .factories-grid {
+    grid-template-columns: repeat(2, 1fr); /* 2 cards per row on medium screens */
+  }
+}
+
+@media (max-width: 640px) {
+  .factories-grid {
+    grid-template-columns: 1fr; /* 1 card per row on small screens */
+  }
+}
+/* Buttons container at bottom of card */
+.card-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem 0 0 0;
+  margin-bottom: 10px;
+}
+
+/* Contact button (red) */
+.contact-btn {
+  background-color: #e74c3c;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.contact-btn:hover {
+  background-color: #c0392b;
+}
+
+/* More Info button (orange) */
+.info-btn {
+  background-color: #fe6703;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.info-btn:hover {
+  background-color: #ff7b00;
+}
