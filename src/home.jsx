@@ -81,8 +81,8 @@ const Home = () => {
         <ul className="nav-links">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/factories">Factories</Link></li>
-          <li><a href="#premium">Premium</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><Link to="/Premium">Premium</Link></li>
+          <li><Link to="/Contact">Contact</Link></li>
         </ul>
         <div className="nav-buttons">
           <button className="btn-login">Login</button>

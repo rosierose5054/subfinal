@@ -5,7 +5,6 @@ import PaymentOverlay from '../components/PaymentOverlay';
 const Premium = () => {
   const [scrollY, setScrollY] = useState(0);
   const [showPaymentOverlay, setShowPaymentOverlay] = useState(false);
-  const [selectedPlanType, setSelectedPlanType] = useState('monthly');
 
   useEffect(() => {
     const handleScroll = () => {
@@ -22,8 +21,7 @@ const Premium = () => {
     });
   };
 
-  const openPaymentOverlay = (planType) => {
-    setSelectedPlanType(planType);
+  const openPaymentOverlay = () => {
     setShowPaymentOverlay(true);
   };
 
@@ -49,14 +47,14 @@ const Premium = () => {
             </p>
             <div className="flex gap-4 pt-4">
               <button 
-                onClick={() => openPaymentOverlay('monthly')}
-                className="px-8 py-3 bg-orange-600 text-white rounded-lg hover:bg-orange-700 transition-all duration-300 font-medium"
+                onClick={openPaymentOverlay}
+                className="px-8 py-3 bg-orange-500 text-white rounded-lg hover:bg-orange-600 transition-all duration-300 font-medium"
               >
                 Get Started
               </button>
               <button 
                 onClick={scrollToPlans}
-                className="px-8 py-3 border-2 border-black text-black rounded-lg hover:bg-black hover:text-white transition-all duration-300 font-medium"
+                className="px-8 py-3 border-2 border-gray-800 text-gray-800 rounded-lg hover:bg-gray-800 hover:text-white transition-all duration-300 font-medium"
               >
                 Learn More
               </button>
@@ -73,7 +71,7 @@ const Premium = () => {
             }}
           >
             <img 
-              src="/credit-cards.png" 
+              src="/assets/images/credit-cards.png" 
               alt="Credit Cards" 
               className="w-full max-w-md lg:max-w-lg drop-shadow-2xl"
             />
@@ -83,98 +81,114 @@ const Premium = () => {
 
       {/* Pricing Plans Section */}
       <div className="min-h-screen flex flex-col items-center justify-center px-8 py-16 bg-white">
-        <h2 className="text-5xl font-bold mb-16 text-center text-black">Choose Your Best Plan</h2>
+        <h2 className="text-5xl font-bold mb-16 text-center">Choose Your Best Plan</h2>
         
-        <div className="max-w-4xl w-full grid md:grid-cols-3 gap-6">
+        <div className="max-w-7xl w-full grid md:grid-cols-3 gap-8">
           {/* Free Trial Card */}
-          <div className="border border-gray-300 rounded-xl p-6 bg-white bg-opacity-95 backdrop-blur-md hover:shadow-lg transition-all duration-300">
-            <h3 className="text-2xl font-bold mb-2 text-black">Free Trial</h3>
-            <p className="text-xs text-gray-600 mb-4">
+          <div className="border border-gray-300 rounded-2xl p-8 bg-white bg-opacity-50 backdrop-blur-sm hover:shadow-xl transition-all duration-300">
+            <h3 className="text-3xl font-bold mb-2">Free Trial</h3>
+            <p className="text-xs text-gray-600 mb-6">
               Experience the basics
             </p>
-            <div className="text-3xl font-bold mb-4 text-black">0 IQD</div>
+            <div className="text-4xl font-bold mb-6">0 IQD</div>
             <button 
-              onClick={() => openPaymentOverlay('free')}
-              className="w-full py-2 border-2 border-orange-600 text-orange-600 rounded-lg hover:bg-orange-600 hover:text-white transition-all duration-300 font-medium mb-6 text-sm"
+              onClick={openPaymentOverlay}
+              className="w-full py-3 border-2 border-orange-500 text-orange-500 rounded-lg hover:bg-orange-500 hover:text-white transition-all duration-300 font-medium mb-8"
             >
               Start Now
             </button>
-            <div className="space-y-2">
-              <p className="font-semibold mb-3 text-black text-sm">Features</p>
-              <div className="flex items-start gap-2">
-                <div className="w-2 h-2 rounded-full bg-gray-400 mt-1 flex-shrink-0"></div>
-                <p className="text-xs text-gray-700">General overview</p>
+            <div className="space-y-3">
+              <p className="font-semibold mb-4">Features of this subscription</p>
+              <div className="flex items-start gap-3">
+                <div className="w-2 h-2 rounded-full bg-gray-400 mt-1.5 flex-shrink-0"></div>
+                <p className="text-sm">General overview of factory types and services</p>
               </div>
-              <div className="flex items-start gap-2">
-                <div className="w-2 h-2 rounded-full bg-gray-400 mt-1 flex-shrink-0"></div>
-                <p className="text-xs text-gray-700">Limited locations</p>
+              <div className="flex items-start gap-3">
+                <div className="w-2 h-2 rounded-full bg-gray-400 mt-1.5 flex-shrink-0"></div>
+                <p className="text-sm">Limited view of geographic locations</p>
               </div>
-              <div className="flex items-start gap-2">
-                <div className="w-2 h-2 rounded-full bg-gray-400 mt-1 flex-shrink-0"></div>
-                <p className="text-xs text-gray-700">Ad-supported</p>
+              <div className="flex items-start gap-3">
+                <div className="w-2 h-2 rounded-full bg-gray-400 mt-1.5 flex-shrink-0"></div>
+                <p className="text-sm">Viewing ad-supported content</p>
               </div>
             </div>
           </div>
 
           {/* Weekly Plan Card */}
-          <div className="border border-gray-300 rounded-xl p-6 bg-white bg-opacity-95 backdrop-blur-md hover:shadow-lg transition-all duration-300">
-            <h3 className="text-2xl font-bold mb-2 text-black">Weekly Plan</h3>
-            <p className="text-xs text-gray-600 mb-4">
-              Full access weekly
+          <div className="border border-gray-300 rounded-2xl p-8 bg-white bg-opacity-50 backdrop-blur-sm hover:shadow-xl transition-all duration-300">
+            <h3 className="text-3xl font-bold mb-2">Weekly Plan</h3>
+            <p className="text-xs text-gray-600 mb-6">
+              Unlock full access and stay informed with the Weekly Plan
             </p>
-            <div className="text-3xl font-bold mb-4 text-orange-600">10,000 IQD</div>
+            <div className="text-4xl font-bold mb-6">10,000 IQD</div>
             <button 
-              onClick={() => openPaymentOverlay('weekly')}
-              className="w-full py-2 border-2 border-orange-600 text-orange-600 rounded-lg hover:bg-orange-600 hover:text-white transition-all duration-300 font-medium mb-6 text-sm"
+              onClick={openPaymentOverlay}
+              className="w-full py-3 border-2 border-orange-500 text-orange-500 rounded-lg hover:bg-orange-500 hover:text-white transition-all duration-300 font-medium mb-8"
             >
               Subscribe Now
             </button>
-            <div className="space-y-2">
-              <p className="font-semibold mb-3 text-black text-sm">Features</p>
-              <div className="flex items-start gap-2">
-                <div className="w-2 h-2 rounded-full bg-orange-600 mt-1 flex-shrink-0"></div>
-                <p className="text-xs text-gray-700">Ad-free browsing</p>
+            <div className="space-y-3">
+              <p className="font-semibold mb-4">Features of this subscription</p>
+              <div className="flex items-start gap-3">
+                <div className="w-2 h-2 rounded-full bg-orange-500 mt-1.5 flex-shrink-0"></div>
+                <p className="text-sm">Ad-free browsing 🚫</p>
               </div>
-              <div className="flex items-start gap-2">
-                <div className="w-2 h-2 rounded-full bg-orange-600 mt-1 flex-shrink-0"></div>
-                <p className="text-xs text-gray-700">Exclusive news</p>
+              <div className="flex items-start gap-3">
+                <div className="w-2 h-2 rounded-full bg-orange-500 mt-1.5 flex-shrink-0"></div>
+                <p className="text-sm">Exclusive industrial news</p>
               </div>
-              <div className="flex items-start gap-2">
-                <div className="w-2 h-2 rounded-full bg-orange-600 mt-1 flex-shrink-0"></div>
-                <p className="text-xs text-gray-700">Contact info</p>
+              <div className="flex items-start gap-3">
+                <div className="w-2 h-2 rounded-full bg-orange-500 mt-1.5 flex-shrink-0"></div>
+                <p className="text-sm">Latest sector updates</p>
+              </div>
+              <div className="flex items-start gap-3">
+                <div className="w-2 h-2 rounded-full bg-orange-500 mt-1.5 flex-shrink-0"></div>
+                <p className="text-sm">Full factory contact info (phone, email, chat)</p>
+              </div>
+              <div className="flex items-start gap-3">
+                <div className="w-2 h-2 rounded-full bg-orange-500 mt-1.5 flex-shrink-0"></div>
+                <p className="text-sm">3-day free trial with reminder</p>
               </div>
             </div>
           </div>
 
           {/* Monthly Plan Card */}
-          <div className="border border-gray-300 rounded-xl p-6 bg-white bg-opacity-95 backdrop-blur-md hover:shadow-lg transition-all duration-300">
-            <div className="inline-block bg-orange-600 text-white text-xs px-2 py-1 rounded-full mb-2">
+          <div className="border border-gray-300 rounded-2xl p-8 bg-white bg-opacity-50 backdrop-blur-sm hover:shadow-xl transition-all duration-300">
+            <h3 className="text-3xl font-bold mb-2">Monthly Plan</h3>
+            <div className="inline-block bg-orange-500 text-white text-xs px-3 py-1 rounded-full mb-2">
               Best Value
             </div>
-            <h3 className="text-2xl font-bold mb-2 text-black">Monthly Plan</h3>
-            <p className="text-xs text-gray-600 mb-4">
-              Full experience
+            <p className="text-xs text-gray-600 mb-6">
+              Get the full experience with maximum savings and insights
             </p>
-            <div className="text-3xl font-bold mb-4 text-orange-600">20,000 IQD</div>
+            <div className="text-4xl font-bold mb-6">20,000 IQD</div>
             <button 
-              onClick={() => openPaymentOverlay('monthly')}
-              className="w-full py-2 border-2 border-orange-600 text-orange-600 rounded-lg hover:bg-orange-600 hover:text-white transition-all duration-300 font-medium mb-6 text-sm"
+              onClick={openPaymentOverlay}
+              className="w-full py-3 border-2 border-orange-500 text-orange-500 rounded-lg hover:bg-orange-500 hover:text-white transition-all duration-300 font-medium mb-8"
             >
               Subscribe Now
             </button>
-            <div className="space-y-2">
-              <p className="font-semibold mb-3 text-black text-sm">Features</p>
-              <div className="flex items-start gap-2">
-                <div className="w-2 h-2 rounded-full bg-orange-600 mt-1 flex-shrink-0"></div>
-                <p className="text-xs text-gray-700">All Weekly features</p>
+            <div className="space-y-3">
+              <p className="font-semibold mb-4">Features of this subscription</p>
+              <div className="flex items-start gap-3">
+                <div className="w-2 h-2 rounded-full bg-orange-500 mt-1.5 flex-shrink-0"></div>
+                <p className="text-sm">All Weekly Plan features</p>
               </div>
-              <div className="flex items-start gap-2">
-                <div className="w-2 h-2 rounded-full bg-orange-600 mt-1 flex-shrink-0"></div>
-                <p className="text-xs text-gray-700">Monthly reports</p>
+              <div className="flex items-start gap-3">
+                <div className="w-2 h-2 rounded-full bg-orange-500 mt-1.5 flex-shrink-0"></div>
+                <p className="text-sm">Access to monthly industrial reports</p>
               </div>
-              <div className="flex items-start gap-2">
-                <div className="w-2 h-2 rounded-full bg-orange-600 mt-1 flex-shrink-0"></div>
-                <p className="text-xs text-gray-700">25% savings</p>
+              <div className="flex items-start gap-3">
+                <div className="w-2 h-2 rounded-full bg-orange-500 mt-1.5 flex-shrink-0"></div>
+                <p className="text-sm">3-day free trial before activation</p>
+              </div>
+              <div className="flex items-start gap-3">
+                <div className="w-2 h-2 rounded-full bg-orange-500 mt-1.5 flex-shrink-0"></div>
+                <p className="text-sm">Auto-renewal discount</p>
+              </div>
+              <div className="flex items-start gap-3">
+                <div className="w-2 h-2 rounded-full bg-orange-500 mt-1.5 flex-shrink-0"></div>
+                <p className="text-sm">Save 25% compared to weekly plan</p>
               </div>
             </div>
           </div>
@@ -183,11 +197,7 @@ const Premium = () => {
 
       {/* Payment Overlay */}
       {showPaymentOverlay && (
-        <PaymentOverlay 
-          onClose={() => setShowPaymentOverlay(false)} 
-          planType={selectedPlanType}
-          testMode={true}
-        />
+        <PaymentOverlay onClose={() => setShowPaymentOverlay(false)} testMode />
       )}
     </div>
   );
