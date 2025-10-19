@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Home = () => {
   const sliderRef = useRef(null);
 
-  // === ⚡ Trigger Push Effect (for slide transitions) ===
+  // === ⚡️ Trigger Push Effect (for slide transitions) ===
   const triggerPush = (direction = "right") => {
     const slider = sliderRef.current;
     if (!slider) return;
@@ -81,8 +81,8 @@ const Home = () => {
         <ul className="nav-links">
           <li><Link to="/">Home</Link></li>
           <li><Link to="/factories">Factories</Link></li>
-          <li><a href="#premium">Premium</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li><Link to="/Premium">Premium</Link></li>
+          <li><Link to="/Contact">Contact</Link></li>
         </ul>
         <div className="nav-buttons">
           <button className="btn-login">Login</button>
@@ -107,8 +107,7 @@ const Home = () => {
               </div>
             </section>
           </div>
-
-          {/* Slide 2 */}
+        {/* Slide 2 */}
           <div className="slide">
             <div className="slide-placeholder">
               <video src="./bulp.webm" autoPlay muted loop playsInline></video>
