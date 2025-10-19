@@ -71,7 +71,7 @@ const Premium = () => {
             }}
           >
             <img 
-              src="/assets/images/credit-cards.png" 
+              src="/credit-cards.png" 
               alt="Credit Cards" 
               className="w-full max-w-md lg:max-w-lg drop-shadow-2xl"
             />

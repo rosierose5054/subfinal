@@ -1,7 +1,12 @@
+/* Tailwind directives (only once) */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* Page-specific imports (only once) */
+@import "./home.css";
+@import "./Factories.css";
+/* add other page CSS imports here if needed */
 /* Root variables and base typography */
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
